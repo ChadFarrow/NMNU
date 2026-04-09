@@ -3,7 +3,6 @@ import fs from 'fs';
 import path from 'path';
 import { Album, Publisher } from '@/lib/types/album';
 import dataService from '@/lib/data-service';
-import { AlbumsService } from '@/lib/albums-service';
 import { generateSlug } from '@/lib/url-utils';
 
 // Publisher feeds are now included in the Artists listing
@@ -13,36 +12,21 @@ const createSlug = generateSlug;
 
 export async function GET(request: NextRequest) {
   try {
-    // Get albums using AlbumsService (works on server-side)
+    // Get albums from static file directly (avoids importing AlbumsService which pulls in sharp)
     let albums: Album[] = [];
-    
+
     try {
-      // Try AlbumsService first
-      if (typeof AlbumsService !== 'undefined' && AlbumsService.fetchAlbums) {
-        const result = await AlbumsService.fetchAlbums({
-          source: 'auto',
-          includeErrors: false
-        });
-        
-        // Ensure result is valid and has albums array
-        if (result && Array.isArray(result.albums)) {
-          albums = result.albums;
-          console.log(`📦 Loaded ${albums.length} albums from AlbumsService`);
-        } else {
-          console.warn('⚠️ AlbumsService returned invalid result format');
-          albums = [];
+      const staticPath = path.join(process.cwd(), 'public', 'static-albums.json');
+      if (fs.existsSync(staticPath)) {
+        const staticData = JSON.parse(fs.readFileSync(staticPath, 'utf8'));
+        if (staticData && Array.isArray(staticData.albums)) {
+          albums = staticData.albums;
+          console.log(`📦 Loaded ${albums.length} albums from static-albums.json`);
         }
-      } else {
-        console.warn('⚠️ AlbumsService not available');
-        albums = [];
       }
     } catch (error) {
       const errorMsg = error instanceof Error ? error.message : String(error);
-      console.error('❌ Error fetching albums from AlbumsService:', errorMsg);
-      if (error instanceof Error && error.stack) {
-        console.error('Stack:', error.stack);
-      }
-      // Return empty array - better than crashing
+      console.error('❌ Error reading static-albums.json:', errorMsg);
       albums = [];
     }
 
