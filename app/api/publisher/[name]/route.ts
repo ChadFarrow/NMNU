@@ -50,9 +50,31 @@ export async function GET(
           publisherUrl: rssAlbum.publisherUrl,
           imageUrl: rssAlbum.imageUrl
         }));
-        
+
+        // Merge with albums from static-albums.json to include all albums by this artist
+        const publisherName = publisherInfo.artist || publisherInfo.title || decodedName;
+        try {
+          const staticAlbumsPath = path.join(process.cwd(), 'public', 'static-albums.json');
+          if (fs.existsSync(staticAlbumsPath)) {
+            const staticAlbumsData = JSON.parse(fs.readFileSync(staticAlbumsPath, 'utf8'));
+            const allStaticAlbums: Album[] = staticAlbumsData.albums || [];
+            const existingTitles = new Set(albums.map(a => a.title.toLowerCase()));
+            const additionalAlbums = allStaticAlbums.filter((album: Album) => {
+              const artistSlug = generateSlug(album.artist);
+              const matches = artistSlug === nameSlug || album.artist.toLowerCase() === publisherName.toLowerCase();
+              return matches && !existingTitles.has(album.title.toLowerCase());
+            });
+            if (additionalAlbums.length > 0) {
+              albums.push(...additionalAlbums);
+              console.log(`➕ Merged ${additionalAlbums.length} additional albums from static data`);
+            }
+          }
+        } catch (mergeError) {
+          console.warn('⚠️ Could not merge static albums:', mergeError);
+        }
+
         const publisher: Publisher = {
-          name: publisherInfo.artist || publisherInfo.title || decodedName,
+          name: publisherName,
           guid: publisherInfo.feedGuid || 'no-guid',
           feedUrl: publisherInfo.feedUrl || '',
           medium: publisherInfo.medium || 'publisher',
