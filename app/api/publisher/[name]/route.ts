@@ -1,10 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server';
-import fs from 'fs';
-import path from 'path';
 import { Album, Publisher } from '@/lib/types/album';
 import { FeedManager } from '@/lib/feed-manager';
 import { FeedParser } from '@/lib/feed-parser';
 import dataService from '@/lib/data-service';
+import { loadStaticAlbums, convertRSSAlbumToAlbum } from '@/lib/static-albums';
 import { generateSlug } from '@/lib/url-utils';
 
 export async function GET(
@@ -32,32 +31,13 @@ export async function GET(
         const publisherItems = publisherData.publisherItems || [];
         
         // Convert RSSAlbums to Album format for response
-        const albums: Album[] = publisherData.albums.map((rssAlbum: any) => ({
-          title: rssAlbum.title,
-          artist: rssAlbum.artist,
-          description: rssAlbum.description,
-          coverArt: rssAlbum.coverArt || '',
-          tracks: rssAlbum.tracks || [],
-          releaseDate: rssAlbum.releaseDate,
-          feedId: rssAlbum.feedId || '',
-          feedUrl: rssAlbum.feedUrl,
-          funding: rssAlbum.funding,
-          value: rssAlbum.value,
-          paymentRecipients: rssAlbum.paymentRecipients,
-          publisher: rssAlbum.publisher,
-          feedGuid: rssAlbum.feedGuid,
-          publisherGuid: rssAlbum.publisherGuid,
-          publisherUrl: rssAlbum.publisherUrl,
-          imageUrl: rssAlbum.imageUrl
-        }));
+        const albums: Album[] = publisherData.albums.map(convertRSSAlbumToAlbum);
 
         // Merge with albums from static-albums.json to include all albums by this artist
         const publisherName = publisherInfo.artist || publisherInfo.title || decodedName;
         try {
-          const staticAlbumsPath = path.join(process.cwd(), 'public', 'static-albums.json');
-          if (fs.existsSync(staticAlbumsPath)) {
-            const staticAlbumsData = JSON.parse(fs.readFileSync(staticAlbumsPath, 'utf8'));
-            const allStaticAlbums: Album[] = staticAlbumsData.albums || [];
+          const allStaticAlbums = loadStaticAlbums();
+          if (allStaticAlbums.length > 0) {
             const existingTitles = new Set(albums.map(a => a.title.toLowerCase()));
             const additionalAlbums = allStaticAlbums.filter((album: Album) => {
               const artistSlug = generateSlug(album.artist);
@@ -69,7 +49,7 @@ export async function GET(
               console.log(`➕ Merged ${additionalAlbums.length} additional albums from static data`);
             }
           }
-        } catch (mergeError) {
+        } catch (mergeError: any) {
           console.warn('⚠️ Could not merge static albums:', mergeError);
         }
 
@@ -141,13 +121,10 @@ export async function GET(
     
     // Final fallback: Load static albums data and group by artist
     try {
-      const staticAlbumsPath = path.join(process.cwd(), 'public', 'static-albums.json');
-      if (fs.existsSync(staticAlbumsPath)) {
-        const staticAlbumsData = JSON.parse(fs.readFileSync(staticAlbumsPath, 'utf8'));
-        const albums: Album[] = staticAlbumsData.albums || [];
-        
+      const allAlbums = loadStaticAlbums();
+      if (allAlbums.length > 0) {
         // Find albums by this publisher
-        const publisherAlbums = albums.filter((album) => {
+        const publisherAlbums = allAlbums.filter((album) => {
           const artistSlug = generateSlug(album.artist);
           return artistSlug === nameSlug || album.artist.toLowerCase() === decodedName.toLowerCase();
         });

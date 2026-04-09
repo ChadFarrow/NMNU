@@ -1,8 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
-import fs from 'fs';
-import path from 'path';
 import { Album, Publisher } from '@/lib/types/album';
 import dataService from '@/lib/data-service';
+import { loadStaticAlbums, convertRSSAlbumToAlbum } from '@/lib/static-albums';
 import { generateSlug } from '@/lib/url-utils';
 
 // Publisher feeds are now included in the Artists listing
@@ -12,23 +11,8 @@ const createSlug = generateSlug;
 
 export async function GET(request: NextRequest) {
   try {
-    // Get albums from static file directly (avoids importing AlbumsService which pulls in sharp)
-    let albums: Album[] = [];
-
-    try {
-      const staticPath = path.join(process.cwd(), 'public', 'static-albums.json');
-      if (fs.existsSync(staticPath)) {
-        const staticData = JSON.parse(fs.readFileSync(staticPath, 'utf8'));
-        if (staticData && Array.isArray(staticData.albums)) {
-          albums = staticData.albums;
-          console.log(`📦 Loaded ${albums.length} albums from static-albums.json`);
-        }
-      }
-    } catch (error) {
-      const errorMsg = error instanceof Error ? error.message : String(error);
-      console.error('❌ Error reading static-albums.json:', errorMsg);
-      albums = [];
-    }
+    const albums: Album[] = loadStaticAlbums();
+    console.log(`📦 Loaded ${albums.length} albums from static-albums.json`);
 
     // Step 1: Group albums by publisher (with fallback to artist name)
     // This creates "fake" publishers from artist names
@@ -165,24 +149,7 @@ export async function GET(request: NextRequest) {
         try {
           const publisherData = await dataService.getPublisherData(publisherGuid);
           if (publisherData && publisherData.albums) {
-            publisherAlbums = publisherData.albums.map((rssAlbum: any) => ({
-              title: rssAlbum.title,
-              artist: rssAlbum.artist,
-              description: rssAlbum.description,
-              coverArt: rssAlbum.coverArt || '',
-              tracks: rssAlbum.tracks || [],
-              releaseDate: rssAlbum.releaseDate,
-              feedId: rssAlbum.feedId || '',
-              feedUrl: rssAlbum.feedUrl,
-              funding: rssAlbum.funding,
-              value: rssAlbum.value,
-              paymentRecipients: rssAlbum.paymentRecipients,
-              publisher: rssAlbum.publisher,
-              feedGuid: rssAlbum.feedGuid,
-              publisherGuid: rssAlbum.publisherGuid,
-              publisherUrl: rssAlbum.publisherUrl,
-              imageUrl: rssAlbum.imageUrl
-            }));
+            publisherAlbums = publisherData.albums.map(convertRSSAlbumToAlbum);
           }
         } catch (error) {
           console.warn(`⚠️ Could not fetch albums for publisher ${publisherName}:`, error);
@@ -217,24 +184,7 @@ export async function GET(request: NextRequest) {
           const publisherData = await dataService.getPublisherData(publisherGuid);
           if (publisherData && publisherData.albums) {
             // Convert RSSAlbums to Albums
-            publisherAlbums = publisherData.albums.map((rssAlbum: any) => ({
-              title: rssAlbum.title,
-              artist: rssAlbum.artist,
-              description: rssAlbum.description,
-              coverArt: rssAlbum.coverArt || '',
-              tracks: rssAlbum.tracks || [],
-              releaseDate: rssAlbum.releaseDate,
-              feedId: rssAlbum.feedId || '',
-              feedUrl: rssAlbum.feedUrl,
-              funding: rssAlbum.funding,
-              value: rssAlbum.value,
-              paymentRecipients: rssAlbum.paymentRecipients,
-              publisher: rssAlbum.publisher,
-              feedGuid: rssAlbum.feedGuid,
-              publisherGuid: rssAlbum.publisherGuid,
-              publisherUrl: rssAlbum.publisherUrl,
-              imageUrl: rssAlbum.imageUrl
-            }));
+            publisherAlbums = publisherData.albums.map(convertRSSAlbumToAlbum);
           }
         } catch (error) {
           console.warn(`⚠️ Could not fetch albums for publisher ${publisherName}:`, error);
