@@ -2,7 +2,6 @@ import fs from 'fs';
 import path from 'path';
 import { FeedManager } from './feed-manager';
 import { RSSParser } from './rss-parser';
-import { getAllFeeds, initializeFeeds } from './feeds-manager';
 import { cleanAlbumImages } from './image-utils';
 import { extractColorsFromImageServer } from './color-extraction-server';
 import { batchUpdateAlbumColors, AlbumWithColors } from './color-storage';
@@ -590,8 +589,8 @@ export class AlbumsService {
     console.log('🔄 Fetching albums from database...');
 
     try {
-      await initializeFeeds();
-      const dbFeeds = await getAllFeeds();
+      FeedManager.clearCache();
+      const dbFeeds = FeedManager.getActiveFeeds();
 
       const albums = [];
       const errors: Array<{ feedId: string; error: string }> = [];
