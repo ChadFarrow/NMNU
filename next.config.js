@@ -131,18 +131,7 @@ const nextConfig = {
         tls: false,
       };
       
-      // Inject chrome polyfill using webpack's BannerPlugin
-      // This is safer than manually manipulating assets
-      const webpack = require('webpack');
-      config.plugins.push(
-        new webpack.BannerPlugin({
-          banner: `(function(){try{if(typeof globalThis!=='undefined'&&!globalThis.chrome){globalThis.chrome={runtime:{onConnect:{},onMessage:{},connect:function(){return{onMessage:{},postMessage:function(){},disconnect:function(){}}},sendMessage:function(){return Promise.resolve()},getURL:function(){return''},getManifest:function(){return{}}},storage:{local:{},sync:{}},tabs:{query:function(){return Promise.resolve([])},create:function(){return Promise.resolve({})},update:function(){return Promise.resolve({})},get:function(){return Promise.resolve({})}},windows:{create:function(){return Promise.resolve({})},get:function(){return Promise.resolve({})},getAll:function(){return Promise.resolve([])}},extension:{getURL:function(){return''},getBackgroundPage:function(){return null}}};globalThis.browser=globalThis.chrome}if(typeof window!=='undefined'&&!window.chrome){window.chrome=globalThis.chrome||{runtime:{onConnect:{},onMessage:{},connect:function(){return{onMessage:{},postMessage:function(){},disconnect:function(){}}},sendMessage:function(){return Promise.resolve()},getURL:function(){return''},getManifest:function(){return{}}},storage:{local:{},sync:{}},tabs:{query:function(){return Promise.resolve([])},create:function(){return Promise.resolve({})},update:function(){return Promise.resolve({})},get:function(){return Promise.resolve({})}},windows:{create:function(){return Promise.resolve({})},get:function(){return Promise.resolve({})},getAll:function(){return Promise.resolve([])}},extension:{getURL:function(){return''},getBackgroundPage:function(){return null}}};window.browser=window.chrome}}catch(e){}})();`,
-          raw: true,
-          entryOnly: false,
-          // Only inject banner into JavaScript files, not CSS
-          test: /\.js$/,
-        })
-      );
+      // Chrome polyfill is loaded via public/chrome-polyfill.js in layout.tsx
     }
     
     // Optimize chunks in production

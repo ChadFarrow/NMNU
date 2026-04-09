@@ -5,12 +5,12 @@
       "artist": "Longy",
       "coverArt": "https://headstarts.uk/msp/longy/songs%20from%20the%20seaside/SFTS_Digital%20Cover_Longy.jpg",
       "colors": {
-        "dominant": "rgb(27, 7, 42)",
+        "dominant": "rgb(33, 7, 41)",
         "palette": {
-          "primary": "hsl(274, 71%, 10%)",
-          "secondary": "hsl(274, 51%, 20%)",
-          "accent": "hsl(304, 71%, 10%)",
-          "background": "linear-gradient(135deg, \n    hsl(274, 71%, 0%) 0%, \n    hsl(274, 41%, 0%) 100%)",
+          "primary": "hsl(286, 71%, 9%)",
+          "secondary": "hsl(286, 51%, 19%)",
+          "accent": "hsl(316, 71%, 9%)",
+          "background": "linear-gradient(135deg, \n    hsl(286, 71%, 0%) 0%, \n    hsl(286, 41%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -21,11 +21,11 @@
       "artist": "Longy",
       "coverArt": "https://headstarts.uk/msp/longy/positively%20unemployed/PositivelyFC.jpg",
       "colors": {
-        "dominant": "rgb(89, 89, 89)",
+        "dominant": "rgb(78, 78, 78)",
         "palette": {
-          "primary": "hsl(0, 0%, 35%)",
-          "secondary": "hsl(0, 0%, 45%)",
-          "accent": "hsl(30, 0%, 35%)",
+          "primary": "hsl(0, 0%, 31%)",
+          "secondary": "hsl(0, 0%, 41%)",
+          "accent": "hsl(30, 0%, 31%)",
           "background": "linear-gradient(135deg, \n    hsl(0, 0%, 0%) 0%, \n    hsl(0, 0%, 0%) 100%)",
           "text": "#ffffff"
         },
@@ -37,12 +37,12 @@
       "artist": "Longy",
       "coverArt": "https://headstarts.uk/msp/longy/substitute/Substitue%20FC.jpg",
       "colors": {
-        "dominant": "rgb(66, 32, 9)",
+        "dominant": "rgb(68, 34, 11)",
         "palette": {
-          "primary": "hsl(24, 76%, 15%)",
-          "secondary": "hsl(24, 56%, 25%)",
-          "accent": "hsl(54, 76%, 15%)",
-          "background": "linear-gradient(135deg, \n    hsl(24, 76%, 0%) 0%, \n    hsl(24, 46%, 0%) 100%)",
+          "primary": "hsl(24, 72%, 15%)",
+          "secondary": "hsl(24, 52%, 25%)",
+          "accent": "hsl(54, 72%, 15%)",
+          "background": "linear-gradient(135deg, \n    hsl(24, 72%, 0%) 0%, \n    hsl(24, 42%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -53,12 +53,12 @@
       "artist": "Longy",
       "coverArt": "https://headstarts.uk/msp/longy/Healing%20Hands/Healing_Fc.jpg",
       "colors": {
-        "dominant": "rgb(226, 222, 212)",
+        "dominant": "rgb(229, 225, 215)",
         "palette": {
-          "primary": "hsl(43, 19%, 86%)",
-          "secondary": "hsl(43, 0%, 96%)",
-          "accent": "hsl(73, 19%, 86%)",
-          "background": "linear-gradient(135deg, \n    hsl(43, 19%, 46%) 0%, \n    hsl(43, 0%, 26%) 100%)",
+          "primary": "hsl(43, 21%, 87%)",
+          "secondary": "hsl(43, 1%, 97%)",
+          "accent": "hsl(73, 21%, 87%)",
+          "background": "linear-gradient(135deg, \n    hsl(43, 21%, 47%) 0%, \n    hsl(43, 0%, 27%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -69,12 +69,12 @@
       "artist": "Longy",
       "coverArt": "https://headstarts.uk/msp/longy/Auto%20Inter%20Woven%20Minds/AUTO%20INTERWOVEN%20MINDS%20cover.jpg",
       "colors": {
-        "dominant": "rgb(163, 71, 33)",
+        "dominant": "rgb(182, 78, 35)",
         "palette": {
-          "primary": "hsl(18, 66%, 38%)",
-          "secondary": "hsl(18, 46%, 48%)",
-          "accent": "hsl(48, 66%, 38%)",
-          "background": "linear-gradient(135deg, \n    hsl(18, 66%, 0%) 0%, \n    hsl(18, 36%, 0%) 100%)",
+          "primary": "hsl(18, 68%, 43%)",
+          "secondary": "hsl(18, 48%, 53%)",
+          "accent": "hsl(48, 68%, 43%)",
+          "background": "linear-gradient(135deg, \n    hsl(18, 68%, 3%) 0%, \n    hsl(18, 38%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -85,13 +85,13 @@
       "artist": "Longy",
       "coverArt": "https://headstarts.uk/msp/longy/live%20at%20606%20club/Live%20at%20the%20606%20club.jpg",
       "colors": {
-        "dominant": "rgb(165, 114, 94)",
+        "dominant": "rgb(180, 91, 60)",
         "palette": {
-          "primary": "hsl(17, 28%, 51%)",
-          "secondary": "hsl(17, 8%, 61%)",
-          "accent": "hsl(47, 28%, 51%)",
-          "background": "linear-gradient(135deg, \n    hsl(17, 28%, 11%) 0%, \n    hsl(17, 0%, 0%) 100%)",
-          "text": "#000000"
+          "primary": "hsl(16, 50%, 47%)",
+          "secondary": "hsl(16, 30%, 57%)",
+          "accent": "hsl(46, 50%, 47%)",
+          "background": "linear-gradient(135deg, \n    hsl(16, 50%, 7%) 0%, \n    hsl(16, 20%, 0%) 100%)",
+          "text": "#ffffff"
         },
         "isDark": true
       }
@@ -101,12 +101,12 @@
       "artist": "Longy",
       "coverArt": "https://headstarts.uk/msp/longy/You've%20Got%20Yourself%20EP/you_ve_got_cover_v1.1.jpg",
       "colors": {
-        "dominant": "rgb(71, 94, 139)",
+        "dominant": "rgb(39, 57, 94)",
         "palette": {
-          "primary": "hsl(220, 32%, 41%)",
-          "secondary": "hsl(220, 12%, 51%)",
-          "accent": "hsl(250, 32%, 41%)",
-          "background": "linear-gradient(135deg, \n    hsl(220, 32%, 1%) 0%, \n    hsl(220, 2%, 0%) 100%)",
+          "primary": "hsl(220, 41%, 26%)",
+          "secondary": "hsl(220, 21%, 36%)",
+          "accent": "hsl(250, 41%, 26%)",
+          "background": "linear-gradient(135deg, \n    hsl(220, 41%, 0%) 0%, \n    hsl(220, 11%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -117,12 +117,12 @@
       "artist": "Longy",
       "coverArt": "https://headstarts.uk/msp/longy/Trust%20in%20Life/trust-in-life-cover9.4.jpg",
       "colors": {
-        "dominant": "rgb(69, 119, 145)",
+        "dominant": "rgb(40, 81, 103)",
         "palette": {
-          "primary": "hsl(201, 36%, 42%)",
-          "secondary": "hsl(201, 16%, 52%)",
-          "accent": "hsl(231, 36%, 42%)",
-          "background": "linear-gradient(135deg, \n    hsl(201, 36%, 2%) 0%, \n    hsl(201, 6%, 0%) 100%)",
+          "primary": "hsl(201, 44%, 28%)",
+          "secondary": "hsl(201, 24%, 38%)",
+          "accent": "hsl(231, 44%, 28%)",
+          "background": "linear-gradient(135deg, \n    hsl(201, 44%, 0%) 0%, \n    hsl(201, 14%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -133,15 +133,15 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/10b82d0f-f893-49c1-b1e2-55e97fe32465.jpg",
       "colors": {
-        "dominant": "rgb(215, 221, 229)",
+        "dominant": "rgb(32, 39, 47)",
         "palette": {
-          "primary": "hsl(214, 21%, 87%)",
-          "secondary": "hsl(214, 1%, 97%)",
-          "accent": "hsl(244, 21%, 87%)",
-          "background": "linear-gradient(135deg, \n    hsl(214, 21%, 47%) 0%, \n    hsl(214, 0%, 27%) 100%)",
-          "text": "#000000"
+          "primary": "hsl(212, 19%, 15%)",
+          "secondary": "hsl(212, 0%, 25%)",
+          "accent": "hsl(242, 19%, 15%)",
+          "background": "linear-gradient(135deg, \n    hsl(212, 19%, 0%) 0%, \n    hsl(212, 0%, 0%) 100%)",
+          "text": "#ffffff"
         },
-        "isDark": false
+        "isDark": true
       }
     },
     {
@@ -149,12 +149,12 @@
       "artist": "Longy",
       "coverArt": "https://headstarts.uk/msp/longy/Lady/Lady%20you%20shot%20me%20FC.jpg",
       "colors": {
-        "dominant": "rgb(216, 199, 178)",
+        "dominant": "rgb(222, 206, 186)",
         "palette": {
-          "primary": "hsl(33, 33%, 77%)",
-          "secondary": "hsl(33, 13%, 87%)",
-          "accent": "hsl(63, 33%, 77%)",
-          "background": "linear-gradient(135deg, \n    hsl(33, 33%, 37%) 0%, \n    hsl(33, 3%, 17%) 100%)",
+          "primary": "hsl(33, 35%, 80%)",
+          "secondary": "hsl(33, 15%, 90%)",
+          "accent": "hsl(63, 35%, 80%)",
+          "background": "linear-gradient(135deg, \n    hsl(33, 35%, 40%) 0%, \n    hsl(33, 5%, 20%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -165,12 +165,12 @@
       "artist": "Longy",
       "coverArt": "https://headstarts.uk/msp/longy/Tape%20Up/Tape_up_cover.jpg",
       "colors": {
-        "dominant": "rgb(24, 28, 36)",
+        "dominant": "rgb(25, 30, 37)",
         "palette": {
-          "primary": "hsl(220, 20%, 12%)",
-          "secondary": "hsl(220, 0%, 22%)",
-          "accent": "hsl(250, 20%, 12%)",
-          "background": "linear-gradient(135deg, \n    hsl(220, 20%, 0%) 0%, \n    hsl(220, 0%, 0%) 100%)",
+          "primary": "hsl(215, 19%, 12%)",
+          "secondary": "hsl(215, 0%, 22%)",
+          "accent": "hsl(245, 19%, 12%)",
+          "background": "linear-gradient(135deg, \n    hsl(215, 19%, 0%) 0%, \n    hsl(215, 0%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -181,12 +181,12 @@
       "artist": "Longy",
       "coverArt": "https://headstarts.uk/msp/longy/The%20Underclass/underclassFC(4)final%20(1).jpg",
       "colors": {
-        "dominant": "rgb(178, 130, 108)",
+        "dominant": "rgb(183, 135, 111)",
         "palette": {
-          "primary": "hsl(19, 31%, 56%)",
-          "secondary": "hsl(19, 11%, 66%)",
-          "accent": "hsl(49, 31%, 56%)",
-          "background": "linear-gradient(135deg, \n    hsl(19, 31%, 16%) 0%, \n    hsl(19, 1%, 0%) 100%)",
+          "primary": "hsl(20, 33%, 58%)",
+          "secondary": "hsl(20, 13%, 68%)",
+          "accent": "hsl(50, 33%, 58%)",
+          "background": "linear-gradient(135deg, \n    hsl(20, 33%, 18%) 0%, \n    hsl(20, 3%, 0%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -197,12 +197,12 @@
       "artist": "Longy - Joe Martin - Nathan Abbott",
       "coverArt": "https://headstarts.uk/msp/live-at-the-fickle-pickle/live-at-the-fickle-pickle-album-cover-into-the-valueverse.jpg",
       "colors": {
-        "dominant": "rgb(237, 148, 78)",
+        "dominant": "rgb(233, 139, 73)",
         "palette": {
-          "primary": "hsl(26, 82%, 62%)",
-          "secondary": "hsl(26, 62%, 72%)",
-          "accent": "hsl(56, 82%, 62%)",
-          "background": "linear-gradient(135deg, \n    hsl(26, 82%, 22%) 0%, \n    hsl(26, 52%, 2%) 100%)",
+          "primary": "hsl(25, 78%, 60%)",
+          "secondary": "hsl(25, 58%, 70%)",
+          "accent": "hsl(55, 78%, 60%)",
+          "background": "linear-gradient(135deg, \n    hsl(25, 78%, 20%) 0%, \n    hsl(25, 48%, 0%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -213,12 +213,12 @@
       "artist": "Joe Martin - Longy - Nathan Abbott",
       "coverArt": "https://headstarts.uk/msp/into-the-valueverse-full-show/fickle%20sq%20poster%20(3).jpeg",
       "colors": {
-        "dominant": "rgb(251, 153, 26)",
+        "dominant": "rgb(252, 154, 28)",
         "palette": {
-          "primary": "hsl(34, 97%, 54%)",
-          "secondary": "hsl(34, 77%, 64%)",
-          "accent": "hsl(64, 97%, 54%)",
-          "background": "linear-gradient(135deg, \n    hsl(34, 97%, 14%) 0%, \n    hsl(34, 67%, 0%) 100%)",
+          "primary": "hsl(34, 97%, 55%)",
+          "secondary": "hsl(34, 77%, 65%)",
+          "accent": "hsl(64, 97%, 55%)",
+          "background": "linear-gradient(135deg, \n    hsl(34, 97%, 15%) 0%, \n    hsl(34, 67%, 0%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -229,12 +229,12 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/4403575a-c0b8-48df-8738-285ee6c826d7.jpg",
       "colors": {
-        "dominant": "rgb(26, 78, 82)",
+        "dominant": "rgb(105, 28, 25)",
         "palette": {
-          "primary": "hsl(184, 52%, 21%)",
-          "secondary": "hsl(184, 32%, 31%)",
-          "accent": "hsl(214, 52%, 21%)",
-          "background": "linear-gradient(135deg, \n    hsl(184, 52%, 0%) 0%, \n    hsl(184, 22%, 0%) 100%)",
+          "primary": "hsl(2, 62%, 25%)",
+          "secondary": "hsl(2, 42%, 35%)",
+          "accent": "hsl(32, 62%, 25%)",
+          "background": "linear-gradient(135deg, \n    hsl(2, 62%, 0%) 0%, \n    hsl(2, 32%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -261,15 +261,15 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/e6ef7a86-b66e-490b-b564-4fa703562f24.jpg",
       "colors": {
-        "dominant": "rgb(202, 198, 195)",
+        "dominant": "rgb(31, 32, 29)",
         "palette": {
-          "primary": "hsl(26, 6%, 78%)",
-          "secondary": "hsl(26, 0%, 88%)",
-          "accent": "hsl(56, 6%, 78%)",
-          "background": "linear-gradient(135deg, \n    hsl(26, 6%, 38%) 0%, \n    hsl(26, 0%, 18%) 100%)",
-          "text": "#000000"
+          "primary": "hsl(80, 5%, 12%)",
+          "secondary": "hsl(80, 0%, 22%)",
+          "accent": "hsl(110, 5%, 12%)",
+          "background": "linear-gradient(135deg, \n    hsl(80, 5%, 0%) 0%, \n    hsl(80, 0%, 0%) 100%)",
+          "text": "#ffffff"
         },
-        "isDark": false
+        "isDark": true
       }
     },
     {
@@ -277,15 +277,15 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/fa16edd9-d3d2-4c6f-a6e1-c9d43307a0bf.jpg",
       "colors": {
-        "dominant": "rgb(156, 106, 90)",
+        "dominant": "rgb(193, 170, 143)",
         "palette": {
-          "primary": "hsl(15, 27%, 48%)",
-          "secondary": "hsl(15, 7%, 58%)",
-          "accent": "hsl(45, 27%, 48%)",
-          "background": "linear-gradient(135deg, \n    hsl(15, 27%, 8%) 0%, \n    hsl(15, 0%, 0%) 100%)",
-          "text": "#ffffff"
+          "primary": "hsl(32, 29%, 66%)",
+          "secondary": "hsl(32, 9%, 76%)",
+          "accent": "hsl(62, 29%, 66%)",
+          "background": "linear-gradient(135deg, \n    hsl(32, 29%, 26%) 0%, \n    hsl(32, 0%, 6%) 100%)",
+          "text": "#000000"
         },
-        "isDark": true
+        "isDark": false
       }
     },
     {
@@ -293,12 +293,12 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/fd10d3f2-a1f3-455c-984d-0d9e3160bae0.jpg",
       "colors": {
-        "dominant": "rgb(38, 76, 97)",
+        "dominant": "rgb(49, 94, 118)",
         "palette": {
-          "primary": "hsl(201, 44%, 26%)",
-          "secondary": "hsl(201, 24%, 36%)",
-          "accent": "hsl(231, 44%, 26%)",
-          "background": "linear-gradient(135deg, \n    hsl(201, 44%, 0%) 0%, \n    hsl(201, 14%, 0%) 100%)",
+          "primary": "hsl(201, 41%, 33%)",
+          "secondary": "hsl(201, 21%, 43%)",
+          "accent": "hsl(231, 41%, 33%)",
+          "background": "linear-gradient(135deg, \n    hsl(201, 41%, 0%) 0%, \n    hsl(201, 11%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -309,12 +309,12 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/fd1a85a5-d484-4c12-9286-5015b69df7a8.jpg",
       "colors": {
-        "dominant": "rgb(32, 34, 37)",
+        "dominant": "rgb(45, 47, 51)",
         "palette": {
-          "primary": "hsl(216, 7%, 14%)",
-          "secondary": "hsl(216, 0%, 24%)",
-          "accent": "hsl(246, 7%, 14%)",
-          "background": "linear-gradient(135deg, \n    hsl(216, 7%, 0%) 0%, \n    hsl(216, 0%, 0%) 100%)",
+          "primary": "hsl(220, 6%, 19%)",
+          "secondary": "hsl(220, 0%, 29%)",
+          "accent": "hsl(250, 6%, 19%)",
+          "background": "linear-gradient(135deg, \n    hsl(220, 6%, 0%) 0%, \n    hsl(220, 0%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -325,12 +325,12 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/139015e5-9123-48bd-9b5b-0a085915d8ac.jpg",
       "colors": {
-        "dominant": "rgb(232, 120, 86)",
+        "dominant": "rgb(177, 124, 104)",
         "palette": {
-          "primary": "hsl(14, 76%, 62%)",
-          "secondary": "hsl(14, 56%, 72%)",
-          "accent": "hsl(44, 76%, 62%)",
-          "background": "linear-gradient(135deg, \n    hsl(14, 76%, 22%) 0%, \n    hsl(14, 46%, 2%) 100%)",
+          "primary": "hsl(16, 32%, 55%)",
+          "secondary": "hsl(16, 12%, 65%)",
+          "accent": "hsl(46, 32%, 55%)",
+          "background": "linear-gradient(135deg, \n    hsl(16, 32%, 15%) 0%, \n    hsl(16, 2%, 0%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -341,12 +341,12 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/2c031ef7-5017-42f6-8326-6db81f321a5b.jpg",
       "colors": {
-        "dominant": "rgb(224, 3, 4)",
+        "dominant": "rgb(210, 3, 4)",
         "palette": {
-          "primary": "hsl(360, 97%, 45%)",
-          "secondary": "hsl(360, 77%, 55%)",
-          "accent": "hsl(30, 97%, 45%)",
-          "background": "linear-gradient(135deg, \n    hsl(360, 97%, 5%) 0%, \n    hsl(360, 67%, 0%) 100%)",
+          "primary": "hsl(360, 97%, 42%)",
+          "secondary": "hsl(360, 77%, 52%)",
+          "accent": "hsl(30, 97%, 42%)",
+          "background": "linear-gradient(135deg, \n    hsl(360, 97%, 2%) 0%, \n    hsl(360, 67%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -357,12 +357,12 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/071f543d-b247-4fc0-8f3a-7b97cab929ca.jpg",
       "colors": {
-        "dominant": "rgb(154, 65, 17)",
+        "dominant": "rgb(176, 77, 20)",
         "palette": {
-          "primary": "hsl(21, 80%, 34%)",
-          "secondary": "hsl(21, 60%, 44%)",
-          "accent": "hsl(51, 80%, 34%)",
-          "background": "linear-gradient(135deg, \n    hsl(21, 80%, 0%) 0%, \n    hsl(21, 50%, 0%) 100%)",
+          "primary": "hsl(22, 80%, 38%)",
+          "secondary": "hsl(22, 60%, 48%)",
+          "accent": "hsl(52, 80%, 38%)",
+          "background": "linear-gradient(135deg, \n    hsl(22, 80%, 0%) 0%, \n    hsl(22, 50%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -373,12 +373,12 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/36639728-9454-40d9-8354-c91bc9939f1e.jpg",
       "colors": {
-        "dominant": "rgb(248, 79, 78)",
+        "dominant": "rgb(248, 93, 93)",
         "palette": {
-          "primary": "hsl(0, 92%, 64%)",
-          "secondary": "hsl(0, 72%, 74%)",
-          "accent": "hsl(30, 92%, 64%)",
-          "background": "linear-gradient(135deg, \n    hsl(0, 92%, 24%) 0%, \n    hsl(0, 62%, 4%) 100%)",
+          "primary": "hsl(0, 92%, 67%)",
+          "secondary": "hsl(0, 72%, 77%)",
+          "accent": "hsl(30, 92%, 67%)",
+          "background": "linear-gradient(135deg, \n    hsl(0, 92%, 27%) 0%, \n    hsl(0, 62%, 7%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -389,12 +389,12 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/42e3308e-98d4-4525-8b03-9ac20c51813c.jpg",
       "colors": {
-        "dominant": "rgb(35, 40, 23)",
+        "dominant": "rgb(35, 41, 24)",
         "palette": {
-          "primary": "hsl(78, 27%, 12%)",
-          "secondary": "hsl(78, 7%, 22%)",
-          "accent": "hsl(108, 27%, 12%)",
-          "background": "linear-gradient(135deg, \n    hsl(78, 27%, 0%) 0%, \n    hsl(78, 0%, 0%) 100%)",
+          "primary": "hsl(81, 26%, 13%)",
+          "secondary": "hsl(81, 6%, 23%)",
+          "accent": "hsl(111, 26%, 13%)",
+          "background": "linear-gradient(135deg, \n    hsl(81, 26%, 0%) 0%, \n    hsl(81, 0%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -405,12 +405,12 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/422aa7c6-42fb-4dab-9674-8c077597c46b.jpg",
       "colors": {
-        "dominant": "rgb(44, 40, 38)",
+        "dominant": "rgb(43, 39, 37)",
         "palette": {
-          "primary": "hsl(20, 7%, 16%)",
+          "primary": "hsl(20, 8%, 16%)",
           "secondary": "hsl(20, 0%, 26%)",
-          "accent": "hsl(50, 7%, 16%)",
-          "background": "linear-gradient(135deg, \n    hsl(20, 7%, 0%) 0%, \n    hsl(20, 0%, 0%) 100%)",
+          "accent": "hsl(50, 8%, 16%)",
+          "background": "linear-gradient(135deg, \n    hsl(20, 8%, 0%) 0%, \n    hsl(20, 0%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -421,12 +421,12 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/5eb422be-ee7f-4a8b-8b3c-f4e0cfd4f1b3.jpg",
       "colors": {
-        "dominant": "rgb(40, 59, 97)",
+        "dominant": "rgb(24, 63, 113)",
         "palette": {
-          "primary": "hsl(220, 42%, 27%)",
-          "secondary": "hsl(220, 22%, 37%)",
-          "accent": "hsl(250, 42%, 27%)",
-          "background": "linear-gradient(135deg, \n    hsl(220, 42%, 0%) 0%, \n    hsl(220, 12%, 0%) 100%)",
+          "primary": "hsl(214, 65%, 27%)",
+          "secondary": "hsl(214, 45%, 37%)",
+          "accent": "hsl(244, 65%, 27%)",
+          "background": "linear-gradient(135deg, \n    hsl(214, 65%, 0%) 0%, \n    hsl(214, 35%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -437,12 +437,12 @@
       "artist": "Longy",
       "coverArt": "https://d12wklypp119aj.cloudfront.net/image/f111327c-4c10-470a-99eb-2ae66c2c7637.jpg",
       "colors": {
-        "dominant": "rgb(83, 85, 107)",
+        "dominant": "rgb(80, 81, 104)",
         "palette": {
-          "primary": "hsl(235, 13%, 37%)",
-          "secondary": "hsl(235, 0%, 47%)",
-          "accent": "hsl(265, 13%, 37%)",
-          "background": "linear-gradient(135deg, \n    hsl(235, 13%, 0%) 0%, \n    hsl(235, 0%, 0%) 100%)",
+          "primary": "hsl(238, 13%, 36%)",
+          "secondary": "hsl(238, 0%, 46%)",
+          "accent": "hsl(268, 13%, 36%)",
+          "background": "linear-gradient(135deg, \n    hsl(238, 13%, 0%) 0%, \n    hsl(238, 0%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -453,12 +453,12 @@
       "artist": "The Fifty Four Plates",
       "coverArt": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg",
       "colors": {
-        "dominant": "rgb(97, 73, 69)",
+        "dominant": "rgb(98, 79, 76)",
         "palette": {
-          "primary": "hsl(9, 17%, 33%)",
-          "secondary": "hsl(9, 0%, 43%)",
-          "accent": "hsl(39, 17%, 33%)",
-          "background": "linear-gradient(135deg, \n    hsl(9, 17%, 0%) 0%, \n    hsl(9, 0%, 0%) 100%)",
+          "primary": "hsl(8, 13%, 34%)",
+          "secondary": "hsl(8, 0%, 44%)",
+          "accent": "hsl(38, 13%, 34%)",
+          "background": "linear-gradient(135deg, \n    hsl(8, 13%, 0%) 0%, \n    hsl(8, 0%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -469,12 +469,12 @@
       "artist": "Edwin Williamson",
       "coverArt": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg",
       "colors": {
-        "dominant": "rgb(30, 117, 179)",
+        "dominant": "rgb(30, 119, 180)",
         "palette": {
-          "primary": "hsl(205, 71%, 41%)",
-          "secondary": "hsl(205, 51%, 51%)",
-          "accent": "hsl(235, 71%, 41%)",
-          "background": "linear-gradient(135deg, \n    hsl(205, 71%, 1%) 0%, \n    hsl(205, 41%, 0%) 100%)",
+          "primary": "hsl(204, 71%, 41%)",
+          "secondary": "hsl(204, 51%, 51%)",
+          "accent": "hsl(234, 71%, 41%)",
+          "background": "linear-gradient(135deg, \n    hsl(204, 71%, 1%) 0%, \n    hsl(204, 41%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -485,11 +485,11 @@
       "artist": "Nathan Abbott & Hookah",
       "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/hookah-band/NATHAN%20-HOOKAH.jpeg",
       "colors": {
-        "dominant": "rgb(102, 102, 102)",
+        "dominant": "rgb(100, 100, 100)",
         "palette": {
-          "primary": "hsl(0, 0%, 40%)",
-          "secondary": "hsl(0, 0%, 50%)",
-          "accent": "hsl(30, 0%, 40%)",
+          "primary": "hsl(0, 0%, 39%)",
+          "secondary": "hsl(0, 0%, 49%)",
+          "accent": "hsl(30, 0%, 39%)",
           "background": "linear-gradient(135deg, \n    hsl(0, 0%, 0%) 0%, \n    hsl(0, 0%, 0%) 100%)",
           "text": "#ffffff"
         },
@@ -501,12 +501,12 @@
       "artist": "Nathan Abbott",
       "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/good%20enough/good%20enough%20-%20single%20cover.jpg",
       "colors": {
-        "dominant": "rgb(238, 211, 177)",
+        "dominant": "rgb(239, 210, 174)",
         "palette": {
-          "primary": "hsl(33, 64%, 81%)",
-          "secondary": "hsl(33, 44%, 91%)",
-          "accent": "hsl(63, 64%, 81%)",
-          "background": "linear-gradient(135deg, \n    hsl(33, 64%, 41%) 0%, \n    hsl(33, 34%, 21%) 100%)",
+          "primary": "hsl(33, 67%, 81%)",
+          "secondary": "hsl(33, 47%, 91%)",
+          "accent": "hsl(63, 67%, 81%)",
+          "background": "linear-gradient(135deg, \n    hsl(33, 67%, 41%) 0%, \n    hsl(33, 37%, 21%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -517,15 +517,15 @@
       "artist": "Nathan Abbott",
       "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/tea-song/TEA%20SONG%20COVER.jpg",
       "colors": {
-        "dominant": "rgb(176, 162, 7)",
+        "dominant": "rgb(204, 51, 32)",
         "palette": {
-          "primary": "hsl(55, 92%, 36%)",
-          "secondary": "hsl(55, 72%, 46%)",
-          "accent": "hsl(85, 92%, 36%)",
-          "background": "linear-gradient(135deg, \n    hsl(55, 92%, 0%) 0%, \n    hsl(55, 62%, 0%) 100%)",
+          "primary": "hsl(7, 73%, 46%)",
+          "secondary": "hsl(7, 53%, 56%)",
+          "accent": "hsl(37, 73%, 46%)",
+          "background": "linear-gradient(135deg, \n    hsl(7, 73%, 6%) 0%, \n    hsl(7, 43%, 0%) 100%)",
           "text": "#ffffff"
         },
-        "isDark": false
+        "isDark": true
       }
     },
     {
@@ -533,12 +533,12 @@
       "artist": "Nathan Abbott",
       "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/oh-my/oh-my-cover.png",
       "colors": {
-        "dominant": "rgb(212, 214, 216)",
+        "dominant": "rgb(223, 226, 228)",
         "palette": {
-          "primary": "hsl(210, 5%, 84%)",
-          "secondary": "hsl(210, 0%, 94%)",
-          "accent": "hsl(240, 5%, 84%)",
-          "background": "linear-gradient(135deg, \n    hsl(210, 5%, 44%) 0%, \n    hsl(210, 0%, 24%) 100%)",
+          "primary": "hsl(204, 8%, 88%)",
+          "secondary": "hsl(204, 0%, 98%)",
+          "accent": "hsl(234, 8%, 88%)",
+          "background": "linear-gradient(135deg, \n    hsl(204, 8%, 48%) 0%, \n    hsl(204, 0%, 28%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -549,12 +549,12 @@
       "artist": "Nathan Abbott",
       "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/sweet_sunshine/sweet-sunshine-nathan-abbott.jpg",
       "colors": {
-        "dominant": "rgb(184, 141, 86)",
+        "dominant": "rgb(184, 140, 86)",
         "palette": {
-          "primary": "hsl(34, 41%, 53%)",
-          "secondary": "hsl(34, 21%, 63%)",
-          "accent": "hsl(64, 41%, 53%)",
-          "background": "linear-gradient(135deg, \n    hsl(34, 41%, 13%) 0%, \n    hsl(34, 11%, 0%) 100%)",
+          "primary": "hsl(33, 41%, 53%)",
+          "secondary": "hsl(33, 21%, 63%)",
+          "accent": "hsl(63, 41%, 53%)",
+          "background": "linear-gradient(135deg, \n    hsl(33, 41%, 13%) 0%, \n    hsl(33, 11%, 0%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -565,12 +565,12 @@
       "artist": "Nathan Abbott",
       "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png",
       "colors": {
-        "dominant": "rgb(17, 41, 38)",
+        "dominant": "rgb(20, 36, 31)",
         "palette": {
-          "primary": "hsl(173, 41%, 11%)",
-          "secondary": "hsl(173, 21%, 21%)",
-          "accent": "hsl(203, 41%, 11%)",
-          "background": "linear-gradient(135deg, \n    hsl(173, 41%, 0%) 0%, \n    hsl(173, 11%, 0%) 100%)",
+          "primary": "hsl(161, 29%, 11%)",
+          "secondary": "hsl(161, 9%, 21%)",
+          "accent": "hsl(191, 29%, 11%)",
+          "background": "linear-gradient(135deg, \n    hsl(161, 29%, 0%) 0%, \n    hsl(161, 0%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -581,12 +581,12 @@
       "artist": "Nathan Abbott",
       "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/Into%20the%20Light/Into%20the%20Light%20Cover.png",
       "colors": {
-        "dominant": "rgb(243, 209, 160)",
+        "dominant": "rgb(221, 155, 68)",
         "palette": {
-          "primary": "hsl(35, 78%, 79%)",
-          "secondary": "hsl(35, 58%, 89%)",
-          "accent": "hsl(65, 78%, 79%)",
-          "background": "linear-gradient(135deg, \n    hsl(35, 78%, 39%) 0%, \n    hsl(35, 48%, 19%) 100%)",
+          "primary": "hsl(34, 69%, 57%)",
+          "secondary": "hsl(34, 49%, 67%)",
+          "accent": "hsl(64, 69%, 57%)",
+          "background": "linear-gradient(135deg, \n    hsl(34, 69%, 17%) 0%, \n    hsl(34, 39%, 0%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -597,7 +597,7 @@
       "artist": "Fable",
       "coverArt": "https://headstarts.uk/msp/fable%20music/the%20raven/the%20raven.jpg",
       "colors": {
-        "dominant": "rgb(159, 37, 13)",
+        "dominant": "rgb(161, 38, 13)",
         "palette": {
           "primary": "hsl(10, 85%, 34%)",
           "secondary": "hsl(10, 65%, 44%)",
@@ -613,12 +613,12 @@
       "artist": "Fable",
       "coverArt": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg",
       "colors": {
-        "dominant": "rgb(235, 208, 180)",
+        "dominant": "rgb(230, 202, 175)",
         "palette": {
-          "primary": "hsl(31, 58%, 81%)",
-          "secondary": "hsl(31, 38%, 91%)",
-          "accent": "hsl(61, 58%, 81%)",
-          "background": "linear-gradient(135deg, \n    hsl(31, 58%, 41%) 0%, \n    hsl(31, 28%, 21%) 100%)",
+          "primary": "hsl(29, 52%, 79%)",
+          "secondary": "hsl(29, 32%, 89%)",
+          "accent": "hsl(59, 52%, 79%)",
+          "background": "linear-gradient(135deg, \n    hsl(29, 52%, 39%) 0%, \n    hsl(29, 22%, 19%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -629,12 +629,12 @@
       "artist": "Hear My Roar",
       "coverArt": "https://headstarts.uk/msp/hear-my-roar/hearmyroar%20logo.jpg",
       "colors": {
-        "dominant": "rgb(215, 213, 57)",
+        "dominant": "rgb(216, 214, 57)",
         "palette": {
-          "primary": "hsl(59, 66%, 53%)",
-          "secondary": "hsl(59, 46%, 63%)",
-          "accent": "hsl(89, 66%, 53%)",
-          "background": "linear-gradient(135deg, \n    hsl(59, 66%, 13%) 0%, \n    hsl(59, 36%, 0%) 100%)",
+          "primary": "hsl(59, 67%, 54%)",
+          "secondary": "hsl(59, 47%, 64%)",
+          "accent": "hsl(89, 67%, 54%)",
+          "background": "linear-gradient(135deg, \n    hsl(59, 67%, 14%) 0%, \n    hsl(59, 37%, 0%) 100%)",
           "text": "#000000"
         },
         "isDark": false
@@ -645,13 +645,13 @@
       "artist": "Heidi J Masters",
       "coverArt": "https://headstarts.uk/msp/heidijmasters/heidi.png",
       "colors": {
-        "dominant": "rgb(208, 149, 88)",
+        "dominant": "rgb(167, 141, 84)",
         "palette": {
-          "primary": "hsl(31, 56%, 58%)",
-          "secondary": "hsl(31, 36%, 68%)",
-          "accent": "hsl(61, 56%, 58%)",
-          "background": "linear-gradient(135deg, \n    hsl(31, 56%, 18%) 0%, \n    hsl(31, 26%, 0%) 100%)",
-          "text": "#000000"
+          "primary": "hsl(41, 33%, 49%)",
+          "secondary": "hsl(41, 13%, 59%)",
+          "accent": "hsl(71, 33%, 49%)",
+          "background": "linear-gradient(135deg, \n    hsl(41, 33%, 9%) 0%, \n    hsl(41, 3%, 0%) 100%)",
+          "text": "#ffffff"
         },
         "isDark": false
       }
@@ -661,12 +661,12 @@
       "artist": "Jaded Jester",
       "coverArt": "https://headstarts.uk/msp/jaded-jester/icarus%20by%20jaded%20jester%20-%20album%20cover.jpeg",
       "colors": {
-        "dominant": "rgb(157, 84, 37)",
+        "dominant": "rgb(103, 48, 31)",
         "palette": {
-          "primary": "hsl(24, 62%, 38%)",
-          "secondary": "hsl(24, 42%, 48%)",
-          "accent": "hsl(54, 62%, 38%)",
-          "background": "linear-gradient(135deg, \n    hsl(24, 62%, 0%) 0%, \n    hsl(24, 32%, 0%) 100%)",
+          "primary": "hsl(14, 54%, 26%)",
+          "secondary": "hsl(14, 34%, 36%)",
+          "accent": "hsl(44, 54%, 26%)",
+          "background": "linear-gradient(135deg, \n    hsl(14, 54%, 0%) 0%, \n    hsl(14, 24%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -677,12 +677,12 @@
       "artist": "Frankie Peroni",
       "coverArt": "https://headstarts.uk/msp/frankie-peroni/singles/singles-frankie-peroni.jpeg",
       "colors": {
-        "dominant": "rgb(102, 87, 51)",
+        "dominant": "rgb(99, 84, 48)",
         "palette": {
-          "primary": "hsl(42, 33%, 30%)",
-          "secondary": "hsl(42, 13%, 40%)",
-          "accent": "hsl(72, 33%, 30%)",
-          "background": "linear-gradient(135deg, \n    hsl(42, 33%, 0%) 0%, \n    hsl(42, 3%, 0%) 100%)",
+          "primary": "hsl(42, 35%, 29%)",
+          "secondary": "hsl(42, 15%, 39%)",
+          "accent": "hsl(72, 35%, 29%)",
+          "background": "linear-gradient(135deg, \n    hsl(42, 35%, 0%) 0%, \n    hsl(42, 5%, 0%) 100%)",
           "text": "#ffffff"
         },
         "isDark": true
@@ -693,12 +693,12 @@
       "artist": "Frankie Peroni",
       "coverArt": "https://headstarts.uk/msp/frankie-peroni/seaforth_road/seaforth-rd-album-cover.jpg",
       "colors": {
-        "dominant": "rgb(127, 205, 236)",
+        "dominant": "rgb(69, 180, 220)",
         "palette": {
-          "primary": "hsl(197, 74%, 71%)",
-          "secondary": "hsl(197, 54%, 81%)",
-          "accent": "hsl(227, 74%, 71%)",
-          "background": "linear-gradient(135deg, \n    hsl(197, 74%, 31%) 0%, \n    hsl(197, 44%, 11%) 100%)",
+          "primary": "hsl(196, 68%, 57%)",
+          "secondary": "hsl(196, 48%, 67%)",
+          "accent": "hsl(226, 68%, 57%)",
+          "background": "linear-gradient(135deg, \n    hsl(196, 68%, 17%) 0%, \n    hsl(196, 38%, 0%) 100%)",
           "text": "#000000"
         },
         "isDark": false
