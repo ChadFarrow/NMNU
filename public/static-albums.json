@@ -7661,11 +7661,4664 @@
       "imageUrl": "https://d12wklypp119aj.cloudfront.net/image/10b82d0f-f893-49c1-b1e2-55e97fe32465.jpg",
       "feedId": "6b111f5d-3cc8-5af7-8640-152ca2f5c031",
       "lastUpdated": "2026-04-09T01:03:27.040Z"
+    },
+    {
+      "title": "Grey State",
+      "artist": "The Fifty Four Plates",
+      "description": "The Fifty Four plates hail from Southend-on-sea, Essex. Joining the new music nudge unit - Grey State is their first release into the value verse. \n\nWritten by Nolan Abbott (who is on nostr) for gig news visit https://thefiftyfourplates.headstarts.uk/ The band consists of Nolan Abbott (Lead Vocals/Guitar) Nathan Abbott (Backing Vocals/Guitar) Jamie lee (drums) Andy Carr (bass) Luke Britnell (lead guitar) Recorded at bignoise studio by Simon Davies MasterEd by Reese Broomfield\n\nfor gig news visit https://thefiftyfourplates.headstarts.uk/\n\nThe band consists of Nolan Abbott (Lead Vocals/Guitar)\nNathan Abbott (Backing Vocals/Guitar)\nJamie lee (drums)\nAndy carr (bass) \nLuke Britnell (lead guitar)\nRecorded at bignoise studio by Simon Davies\nMasterEd by Reese Broomfield",
+      "coverArt": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg",
+      "tracks": [
+        {
+          "title": "Killer",
+          "duration": "3:14",
+          "url": "https://op3.dev/e,pg=05eaeb68-1d19-5f15-afb6-06aeba50381b/headstarts.uk/msp/the_fifty_four_plates/grey_state/track%204/Killer.mp3",
+          "trackNumber": 1,
+          "image": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nolan54@fountain.fm",
+                "split": 80,
+                "name": "nolan54",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nolan54@fountain.fm",
+              "split": 80,
+              "name": "nolan54",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "5a646f7a-67fa-4124-83a5-85f4a1ae632f",
+          "feedGuid": "05eaeb68-1d19-5f15-afb6-06aeba50381b",
+          "imageUrl": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg"
+        },
+        {
+          "title": "Lost",
+          "duration": "3:15",
+          "url": "https://op3.dev/e,pg=05eaeb68-1d19-5f15-afb6-06aeba50381b/headstarts.uk/msp/the_fifty_four_plates/grey_state/track%205/Lost.mp3",
+          "trackNumber": 2,
+          "image": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nolan54@fountain.fm",
+                "split": 80,
+                "name": "nolan54",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nolan54@fountain.fm",
+              "split": 80,
+              "name": "nolan54",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "ab01e76e-53cd-4579-a772-ce0f5766fe5e",
+          "feedGuid": "05eaeb68-1d19-5f15-afb6-06aeba50381b",
+          "imageUrl": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg"
+        },
+        {
+          "title": "A thousand kisses",
+          "duration": "3:51",
+          "url": "https://op3.dev/e,pg=05eaeb68-1d19-5f15-afb6-06aeba50381b/headstarts.uk/msp/the_fifty_four_plates/grey_state/track%201/a1000kisses.mp3",
+          "trackNumber": 3,
+          "image": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nolan54@fountain.fm",
+                "split": 80,
+                "name": "nolan54",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nolan54@fountain.fm",
+              "split": 80,
+              "name": "nolan54",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "e2d601b3-9644-4f36-abe4-cdce444bc9f2",
+          "feedGuid": "05eaeb68-1d19-5f15-afb6-06aeba50381b",
+          "imageUrl": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg"
+        },
+        {
+          "title": "River People",
+          "duration": "3:12",
+          "url": "https://op3.dev/e,pg=05eaeb68-1d19-5f15-afb6-06aeba50381b/headstarts.uk/msp/the_fifty_four_plates/grey_state/track%203/River%20People.mp3",
+          "trackNumber": 4,
+          "image": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nolan54@fountain.fm",
+                "split": 80,
+                "name": "nolan54",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nolan54@fountain.fm",
+              "split": 80,
+              "name": "nolan54",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "c4c83125-4a86-48ae-a0bc-e2700ba2439c",
+          "feedGuid": "05eaeb68-1d19-5f15-afb6-06aeba50381b",
+          "imageUrl": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg"
+        },
+        {
+          "title": "Sail This Ship",
+          "duration": "4:10",
+          "url": "https://op3.dev/e,pg=05eaeb68-1d19-5f15-afb6-06aeba50381b/headstarts.uk/msp/the_fifty_four_plates/grey_state/track%209/Sail%20My%20Ship.mp3",
+          "trackNumber": 5,
+          "image": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nolan54@fountain.fm",
+                "split": 78,
+                "name": "nolan",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 1,
+                "name": "MSP 2.0",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "podcastindex@getalby.com",
+                "split": 1,
+                "name": "Podcastindex.org",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nolan54@fountain.fm",
+              "split": 78,
+              "name": "nolan",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 1,
+              "name": "MSP 2.0",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "podcastindex@getalby.com",
+              "split": 1,
+              "name": "Podcastindex.org",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "d08058e1-4ea3-47ab-a924-9d10866e6a83",
+          "feedGuid": "05eaeb68-1d19-5f15-afb6-06aeba50381b",
+          "imageUrl": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg"
+        },
+        {
+          "title": "Ten Feet",
+          "duration": "5:43",
+          "url": "https://op3.dev/e,pg=05eaeb68-1d19-5f15-afb6-06aeba50381b/headstarts.uk/msp/the_fifty_four_plates/grey_state/track%206/Ten%20Feet.mp3",
+          "trackNumber": 6,
+          "summary": "The Fifty Four plates hail from Southend-on-sea, Essex. Joining the new music nudge unit - Ten Feet is the sixth song released into the value verse. Written by Nolan Abbott (who is on nostr) for gig news visit https://thefiftyfourplates.headstarts.uk/ The band consists of Nolan Abbott (Lead Vocals/Guitar) Nathan Abbott (Backing Vocals/Guitar) Jamie lee (drums) Andy Carr (bass) Luke Britnell (lead guitar) Recorded at bignoise studio by Simon Davies MasterEd by Reese Broomfield",
+          "image": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nolan54@fountain.fm",
+                "split": 80,
+                "name": "nolan54",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nolan54@fountain.fm",
+              "split": 80,
+              "name": "nolan54",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "2a46931c-0a22-4b57-9f60-141d49d1a76e",
+          "feedGuid": "05eaeb68-1d19-5f15-afb6-06aeba50381b",
+          "imageUrl": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg"
+        },
+        {
+          "title": "WDC",
+          "duration": "6:02",
+          "url": "https://op3.dev/e,pg=05eaeb68-1d19-5f15-afb6-06aeba50381b/headstarts.uk/msp/the_fifty_four_plates/grey_state/track%207/WDC.mp3",
+          "trackNumber": 7,
+          "image": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nolan54@fountain.fm",
+                "split": 80,
+                "name": "nolan54",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nolan54@fountain.fm",
+              "split": 80,
+              "name": "nolan54",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "86f09b0e-09c1-4001-b45a-8d1e3a67dfad",
+          "feedGuid": "05eaeb68-1d19-5f15-afb6-06aeba50381b",
+          "imageUrl": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg"
+        },
+        {
+          "title": "The Devil in Me",
+          "duration": "4:41",
+          "url": "https://op3.dev/e,pg=05eaeb68-1d19-5f15-afb6-06aeba50381b/headstarts.uk/msp/the_fifty_four_plates/grey_state/track%208/The%20Devil%20In%20Me.mp3",
+          "trackNumber": 8,
+          "subtitle": "The Devil in Me",
+          "summary": "The Fifty Four plates hail from Southend-on-sea, Essex. Joining the new music nudge unit - The Devil in Me is the 8th song released into the value verse. Written by Nolan Abbott (who is on nostr) for gig news visit https://thefiftyfourplates.headstarts.uk/\nThe band consists of Nolan Abbott (Lead Vocals/Guitar) Nathan Abbott (Backing Vocals/Guitar) Jamie lee (drums) Andy Carr (bass) Luke Britnell (lead guitar) Recorded at bignoise studio by Simon Davies MasterEd by Reese Broomfield",
+          "image": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nolan54@fountain.fm",
+                "split": 78,
+                "name": "nolan54",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 2,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nolan54@fountain.fm",
+              "split": 78,
+              "name": "nolan54",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 2,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "c4a28045-8850-4b7d-9747-7c0f164c8f84",
+          "feedGuid": "05eaeb68-1d19-5f15-afb6-06aeba50381b",
+          "imageUrl": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg"
+        },
+        {
+          "title": "Will of Man",
+          "duration": "4:09",
+          "url": "https://op3.dev/e,pg=05eaeb68-1d19-5f15-afb6-06aeba50381b/headstarts.uk/msp/the_fifty_four_plates/grey_state/track%202/Will%20Of%20Man.mp3",
+          "trackNumber": 9,
+          "image": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79",
+                "split": 80,
+                "name": "nolan54",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79",
+              "split": 80,
+              "name": "nolan54",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "440afc7c-2662-4c75-aa55-3c72be3d77f7",
+          "feedGuid": "05eaeb68-1d19-5f15-afb6-06aeba50381b",
+          "imageUrl": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg"
+        }
+      ],
+      "releaseDate": "Thu, 22 Jan 2026 12:35:44 GMT",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/#54",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "nolan54@fountain.fm",
+            "split": 80,
+            "name": "nolan54",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "nmnu",
+            "fee": false
+          }
+        ]
+      },
+      "subtitle": "The Devil in Me",
+      "summary": "The Fifty Four plates hail from Southend-on-sea, Essex. Joining the new music nudge unit - Ten Feet is the sixth song released into the value verse. Written by Nolan Abbott (who is on nostr) for gig news visit https://thefiftyfourplates.headstarts.uk/ The band consists of Nolan Abbott (Lead Vocals/Guitar) Nathan Abbott (Backing Vocals/Guitar) Jamie lee (drums) Andy Carr (bass) Luke Britnell (lead guitar) Recorded at bignoise studio by Simon Davies MasterEd by Reese Broomfield",
+      "keywords": [
+        "music"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "owner": {
+        "name": "New Music Nudge Unit",
+        "email": "newmusicnudgeunit@gmail.com"
+      },
+      "publisher": {
+        "feedGuid": "28b9dc36-4957-4e69-be84-11f02d860ee2",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/the-fifty-four-plates.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "nolan54@fountain.fm",
+          "split": 80,
+          "name": "nolan54",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "nmnu",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "05eaeb68-1d19-5f15-afb6-06aeba50381b",
+      "feedUrl": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state.xml",
+      "publisherGuid": "28b9dc36-4957-4e69-be84-11f02d860ee2",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/the-fifty-four-plates.xml",
+      "imageUrl": "https://headstarts.uk/msp/the_fifty_four_plates/grey_state/grey_state_album_cover.jpg",
+      "feedId": "https-headstarts-uk-msp-the-fifty-four-plates-grey-state-grey-state-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "The Westend Sessions",
+      "artist": "Edwin Williamson",
+      "description": "Artist: Edwin Williamson\nAlbum: The Westend Sessions\nLabel: Incarnation Records\n2022\nEdwin Williamson’s unrestrained baritone recalls Scott Walker, blending rich melodies with a raw acoustic sensibility. His captivating songs, reminiscent of Nick Drake in their elemental lyricism, speak to urban wastelands peopled by poet junkies, gamblers, and femme fatales, all the while being tinged with a gritty world-weary swagger worthy of Johnny Cash or Nick Cave.\nThe Westend Sessions is the result of a collaboration between singer songwriter Astrid Williamson, Edwin’s sister, during the Covid19 lockdowns of 2020/21 and is released on Incarnation Records on 24th November 2022.\nReleased November 25, 2022\nAll tracks performed by Edwin Williamson and Astrid Williamson\nNicolas Dick — lap steel guitar on Veila\nNicky Smith — additional electric guitar on Veila\nEngineered, mixed and produced by Astrid Williamson\nAdditional mixing on Dragon’s Eye by Nicky Smith\nfor more info go to https://bitcoinessex.co.uk/new-music-nudge-unit/\npublished on rss by nmnu new music nudge unit #demu #nmnu \n\nfull details \n\nEdwin Williamson - The Westend Sessions \n\nBlack Train\n\nCounting House\n\nDragon’s Eye\n\nVisions\n\nVeila\n\nSunny 2nd Street \n\nCity Of Light \n\nOutback\n\nMorning Sun\n\nCaramel \n\nMy Dear\n\nNighttime\n\nCarousel \n\n\nAll songs written by Edwin Williamson except \"Sunny 2nd Street\", \"My Dear\", \"Carousel\" (Neil Cottee/Edwin Williamson), 'Nighttime\", \"Counting  House\", \"Morning Sun\" (Dave Bernasconi). \n\n\nLapsteel guitar on Veila performed by Nicholas Dick. \n\nAdditional Guitars on Veila performed by Nicky Smith. \n\nProduced, engineered and mixed by Astrid Williamson.\n\nAdditional mixing on Dragon’s Eye and Veila by Nicky Smith.\n\nMastered by Nicholas Dick at Le Puits Sonore, Marseille.\n\nManufactured by AkcentMedia\n\nDesign by Kathryn Preston\n\n\nP & C Incarnation Records 2022\n\n\n\nFront and back cover artwork - Jacob Williamson\n\n\n\nPaintings - Barbara Hulme \n\nPhotography - Helen Davies\n\nSpecial thanks to: Jake, Eddie & Linda Williamson, Nicky Smith, Nicolas Dick, Helen Davies, Dave Bernasconi and Barbara Hulme.\n\nDedicated to Neil Cottee.\n\n1975 - 2017\n\n\"You'll never leave the weathered docks of our loving minds...\n\nFor you are in the moon, the wind and through the whole evening song you are the sailor in eternity whose journey is not gone..\"\n\nTo support Edwin and buy the album in full go to https://incarnationrecords2020.bandcamp.com/album/the-westend-sessions",
+      "coverArt": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg",
+      "tracks": [
+        {
+          "title": "Black Train",
+          "duration": "3:00",
+          "url": "https://op3.dev/e,pg=c1fd79f4-7bdd-5dd1-8074-264c97f0f857/headstarts.uk/msp/Edwin-Williamson/track%201/black-train.mp3",
+          "trackNumber": 1,
+          "summary": "Artist: Edwin Williamson Track 1: Black Train Album: The Westend Sessions Label: Incarnation Records 2022 Producer: Astrid Williamson Composer: Edwin Williamson Lyricist: Edwin Williamson Edwin is also on Nostr - give him a follow\n \nArtist: Edwin WilliamsonAlbum: The Westend SessionsLabel: Incarnation Records2022Edwin Williamson&rsquo;s unrestrained baritone recalls Scott Walker, blending rich melodies with a raw acoustic sensibility. His captivating songs, reminiscent of Nick Drake in their elemental lyricism, speak to urban wastelands peopled by poet junkies, gamblers, and femme fatales, all the while being tinged with a gritty world-weary swagger worthy of Johnny Cash or Nick Cave.The Westend Sessions is the result of a collaboration between singer songwriter Astrid Williamson, Edwin&rsquo;s sister, during the Covid19 lockdowns of 2020/21 and is released on Incarnation Records on 24th November 2022.Released November 25, 2022All tracks performed by Edwin Williamson and Astrid WilliamsonNicolas Dick &mdash; lap steel guitar on VeilaNicky Smith &mdash; additional electric guitar on VeilaEngineered, mixed and produced by Astrid WilliamsonAdditional mixing on Dragon&rsquo;s Eye by Nicky Smithfor more info go to https://bitcoinessex.co.uk/new-music-nudge-unit/published on rss by nmnu new music nudge unit #demu #nmnu \nfull details \nEdwin Williamson - The Westend Sessions \nBlack Train\nCounting House\nDragon&rsquo;s Eye\nVisions\nVeila\nSunny 2nd Street \nCity Of Light \nOutback\nMorning Sun\nCaramel \nMy Dear\nNighttime\nCarousel \nAll songs written by Edwin Williamson except \"Sunny 2nd Street\", \"My Dear\", \"Carousel\" (Neil Cottee/Edwin Williamson), 'Nighttime\", \"Counting  House\", \"Morning Sun\" (Dave Bernasconi). \nLapsteel guitar on Veila performed by Nicholas Dick. \nAdditional Guitars on Veila performed by Nicky Smith. \nProduced, engineered and mixed by Astrid Williamson.\nAdditional mixing on Dragon&rsquo;s Eye and Veila by Nicky Smith.\nMastered by Nicholas Dick at Le Puits Sonore, Marseille.\nManufactured by AkcentMedia\nDesign by Kathryn Preston\nP & C Incarnation Records 2022\n \nFront and back cover artwork - Jacob Williamson\n \nPaintings - Barbara Hulme \nPhotography - Helen Davies\nSpecial thanks to: Jake, Eddie & Linda Williamson, Nicky Smith, Nicolas Dick, Helen Davies, Dave Bernasconi and Barbara Hulme.\nDedicated to Neil Cottee.\n1975 - 2017\n\"You'll never leave the weathered docks of our loving minds...\nFor you are in the moon, the wind and through the whole evening song you are the sailor in eternity whose journey is not gone..\"\nTo support Edwin and buy the album in full go to https://incarnationrecords2020.bandcamp.com/album/the-westend-sessions",
+          "image": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "edwinwilliamson@fountain.fm",
+                "split": 78,
+                "name": "Edwin",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 2,
+                "name": "chadf",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "edwinwilliamson@fountain.fm",
+              "split": 78,
+              "name": "Edwin",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 2,
+              "name": "chadf",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "694e3f43-3f40-4c49-9602-a6a68f10ed4b",
+          "feedGuid": "c1fd79f4-7bdd-5dd1-8074-264c97f0f857",
+          "imageUrl": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg"
+        },
+        {
+          "title": "Veila",
+          "duration": "4:01",
+          "url": "https://op3.dev/e,pg=c1fd79f4-7bdd-5dd1-8074-264c97f0f857/headstarts.uk/msp/Edwin-Williamson/track%202/veila.mp3",
+          "trackNumber": 2,
+          "summary": "Artist: Edwin Williamson Track 2: Veila Album: The Westend Sessions Label: Incarnation Records 2022 \"Veila\" written and performed by Edwin Williamson Additional vocals and keyboards by Astrid Williamson Lapsteel guitar - Nicholas Dick The Westend Sessions by Edwin Williamson Incarnation Records 2022 Edwin is also on Nostr - give him a follow",
+          "image": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "edwinwilliamson@fountain.fm",
+                "split": 78,
+                "name": "Edwin",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 2,
+                "name": "chadf",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "edwinwilliamson@fountain.fm",
+              "split": 78,
+              "name": "Edwin",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 2,
+              "name": "chadf",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "cc3e6497-2fb1-421b-856a-cdc8d2f75d47",
+          "feedGuid": "c1fd79f4-7bdd-5dd1-8074-264c97f0f857",
+          "imageUrl": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg"
+        },
+        {
+          "title": "Dragon's Eye",
+          "duration": "4:20",
+          "url": "https://op3.dev/e,pg=c1fd79f4-7bdd-5dd1-8074-264c97f0f857/headstarts.uk/msp/Edwin-Williamson/track%203/dragons-eye.mp3",
+          "trackNumber": 3,
+          "image": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "edwinwilliamson@fountain.fm",
+                "split": 78,
+                "name": "Edwin",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 2,
+                "name": "chadf",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "edwinwilliamson@fountain.fm",
+              "split": 78,
+              "name": "Edwin",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 2,
+              "name": "chadf",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "9a24f526-618c-4a40-b79d-2ecd3526bb7a",
+          "feedGuid": "c1fd79f4-7bdd-5dd1-8074-264c97f0f857",
+          "imageUrl": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg"
+        },
+        {
+          "title": "My Dear",
+          "duration": "2:20",
+          "url": "https://op3.dev/e,pg=c1fd79f4-7bdd-5dd1-8074-264c97f0f857/headstarts.uk/msp/Edwin-Williamson/track%204/my-dear.mp3",
+          "trackNumber": 4,
+          "image": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "edwinwilliamson@fountain.fm",
+                "split": 78,
+                "name": "Edwin",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 2,
+                "name": "chadf",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "edwinwilliamson@fountain.fm",
+              "split": 78,
+              "name": "Edwin",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 2,
+              "name": "chadf",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "5cfc9604-7344-4314-97bb-95774c372afe",
+          "feedGuid": "c1fd79f4-7bdd-5dd1-8074-264c97f0f857",
+          "imageUrl": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg"
+        },
+        {
+          "title": "Counting House",
+          "duration": "3:19",
+          "url": "https://op3.dev/e,pg=c1fd79f4-7bdd-5dd1-8074-264c97f0f857/headstarts.uk/msp/Edwin-Williamson/track%205/Counting%20House.mp3",
+          "trackNumber": 5,
+          "subtitle": "Counting House",
+          "summary": "Artist: Edwin Williamson Track 5: Counting House From the Album: The Westend Sessions Label: Incarnation Records 2022\nProducer: Astrid Williamson Composer: Edwin Williamson Lyricist: Edwin Williamson Edwin is also on Nostr - give him a follow\nPublished by New Music Nudge Unit",
+          "image": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg",
+          "explicit": false,
+          "keywords": [
+            "music",
+            "vocals",
+            "manchester",
+            "uk"
+          ],
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "edwinwilliamson@fountain.fm",
+                "split": 78,
+                "name": "Edwin",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 2,
+                "name": "chadf",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "edwinwilliamson@fountain.fm",
+              "split": 78,
+              "name": "Edwin",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 2,
+              "name": "chadf",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "b8b2d4d2-e09e-4648-afee-2028ccf79595",
+          "feedGuid": "c1fd79f4-7bdd-5dd1-8074-264c97f0f857",
+          "imageUrl": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg"
+        },
+        {
+          "title": "Outback",
+          "duration": "3:24",
+          "url": "https://op3.dev/e,pg=c1fd79f4-7bdd-5dd1-8074-264c97f0f857/headstarts.uk/msp/Edwin-Williamson/track%208/Outback.mp3",
+          "trackNumber": 6,
+          "image": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "edwinwilliamson@fountain.fm",
+                "split": 78,
+                "name": "Edwin",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 2,
+                "name": "chadf",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "edwinwilliamson@fountain.fm",
+              "split": 78,
+              "name": "Edwin",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 2,
+              "name": "chadf",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "9fb9fb92-9c05-4a44-91cb-0ecc0d3ff8c3",
+          "feedGuid": "c1fd79f4-7bdd-5dd1-8074-264c97f0f857",
+          "imageUrl": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg"
+        },
+        {
+          "title": "Visions",
+          "duration": "3:20",
+          "url": "https://op3.dev/e,pg=c1fd79f4-7bdd-5dd1-8074-264c97f0f857/headstarts.uk/msp/Edwin-Williamson/track%206/Visions%20-%20Edwin%20Williamson.mp3",
+          "trackNumber": 7,
+          "image": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "edwinwilliamson@fountain.fm",
+                "split": 78,
+                "name": "Edwin",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 2,
+                "name": "chadf",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "edwinwilliamson@fountain.fm",
+              "split": 78,
+              "name": "Edwin",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 2,
+              "name": "chadf",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "751a0a7f-6e90-4d05-83fc-1ebe12bf4abc",
+          "feedGuid": "c1fd79f4-7bdd-5dd1-8074-264c97f0f857",
+          "imageUrl": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg"
+        }
+      ],
+      "releaseDate": "Thu, 15 Jan 2026 12:36:54 GMT",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/#edwin",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "edwinwilliamson@fountain.fm",
+            "split": 78,
+            "name": "Edwin",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "nmnu",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "chadf@getalby.com",
+            "split": 2,
+            "name": "chadf",
+            "fee": false
+          }
+        ]
+      },
+      "subtitle": "Counting House",
+      "summary": "Artist: Edwin Williamson Track 1: Black Train Album: The Westend Sessions Label: Incarnation Records 2022 Producer: Astrid Williamson Composer: Edwin Williamson Lyricist: Edwin Williamson Edwin is also on Nostr - give him a follow\n \nArtist: Edwin WilliamsonAlbum: The Westend SessionsLabel: Incarnation Records2022Edwin Williamson&rsquo;s unrestrained baritone recalls Scott Walker, blending rich melodies with a raw acoustic sensibility. His captivating songs, reminiscent of Nick Drake in their elemental lyricism, speak to urban wastelands peopled by poet junkies, gamblers, and femme fatales, all the while being tinged with a gritty world-weary swagger worthy of Johnny Cash or Nick Cave.The Westend Sessions is the result of a collaboration between singer songwriter Astrid Williamson, Edwin&rsquo;s sister, during the Covid19 lockdowns of 2020/21 and is released on Incarnation Records on 24th November 2022.Released November 25, 2022All tracks performed by Edwin Williamson and Astrid WilliamsonNicolas Dick &mdash; lap steel guitar on VeilaNicky Smith &mdash; additional electric guitar on VeilaEngineered, mixed and produced by Astrid WilliamsonAdditional mixing on Dragon&rsquo;s Eye by Nicky Smithfor more info go to https://bitcoinessex.co.uk/new-music-nudge-unit/published on rss by nmnu new music nudge unit #demu #nmnu \nfull details \nEdwin Williamson - The Westend Sessions \nBlack Train\nCounting House\nDragon&rsquo;s Eye\nVisions\nVeila\nSunny 2nd Street \nCity Of Light \nOutback\nMorning Sun\nCaramel \nMy Dear\nNighttime\nCarousel \nAll songs written by Edwin Williamson except \"Sunny 2nd Street\", \"My Dear\", \"Carousel\" (Neil Cottee/Edwin Williamson), 'Nighttime\", \"Counting  House\", \"Morning Sun\" (Dave Bernasconi). \nLapsteel guitar on Veila performed by Nicholas Dick. \nAdditional Guitars on Veila performed by Nicky Smith. \nProduced, engineered and mixed by Astrid Williamson.\nAdditional mixing on Dragon&rsquo;s Eye and Veila by Nicky Smith.\nMastered by Nicholas Dick at Le Puits Sonore, Marseille.\nManufactured by AkcentMedia\nDesign by Kathryn Preston\nP & C Incarnation Records 2022\n \nFront and back cover artwork - Jacob Williamson\n \nPaintings - Barbara Hulme \nPhotography - Helen Davies\nSpecial thanks to: Jake, Eddie & Linda Williamson, Nicky Smith, Nicolas Dick, Helen Davies, Dave Bernasconi and Barbara Hulme.\nDedicated to Neil Cottee.\n1975 - 2017\n\"You'll never leave the weathered docks of our loving minds...\nFor you are in the moon, the wind and through the whole evening song you are the sailor in eternity whose journey is not gone..\"\nTo support Edwin and buy the album in full go to https://incarnationrecords2020.bandcamp.com/album/the-westend-sessions",
+      "keywords": [
+        "music"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "owner": {
+        "name": "new music nudge unit",
+        "email": "newmusicnudgeunit@gmail.com"
+      },
+      "publisher": {
+        "feedGuid": "c69122d1-a5bc-43af-89cf-6c8db6a3ce72",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/edwin-williamson.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "edwinwilliamson@fountain.fm",
+          "split": 78,
+          "name": "Edwin",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "nmnu",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "chadf@getalby.com",
+          "split": 2,
+          "name": "chadf",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "c1fd79f4-7bdd-5dd1-8074-264c97f0f857",
+      "feedUrl": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-the-westend-sessions.xml",
+      "publisherGuid": "c69122d1-a5bc-43af-89cf-6c8db6a3ce72",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/edwin-williamson.xml",
+      "imageUrl": "https://headstarts.uk/msp/Edwin-Williamson/edwin-williamson-album-cover.jpg",
+      "feedId": "https-headstarts-uk-msp-edwin-williamson-edwin-williamson-the-westend-sessions-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "Hookah",
+      "artist": "Nathan Abbott & Hookah",
+      "description": "Some of Nathan Abbotts earliest stuff made with his first group the Hookah Band. \n\nPublished via the New Music Nudge Unit. \n\nLike all Valueverse releases, the track is published openly through RSS, making it available across the growing DeMu (Decentralised Music) ecosystem. Fans can stream freely and support artists directly through the Value for Value model using Bitcoin.\n\nIf you want to explore more artists building music on RSS + Bitcoin, visit:\n\n👉 bitcoinessex.co.uk/new-music-nudge-unit\n\nThat’s where you can discover new NMNU artists, learn how DeMu works, and even publish your own music into the Valueverse.\n\n#valueverse #value4value #demu #bitcoin #nostr #music",
+      "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/hookah-band/NATHAN%20-HOOKAH.jpeg",
+      "tracks": [
+        {
+          "title": "To Fill The Days",
+          "duration": "4:43",
+          "url": "https://op3.dev/e,pg=9751f439-2ffc-43ed-bcae-2905e6fe3438/headstarts.uk/msp/Nathan%20Abbott/hookah-band/track%201/01%20To%20Fill%20The%20Days.mp3",
+          "trackNumber": 1,
+          "image": "https://headstarts.uk/msp/Nathan%20Abbott/hookah-band/NATHAN%20-HOOKAH.jpeg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "0.000033333",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm ",
+                "split": 20,
+                "name": "NMNU",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 1,
+                "name": "MSP 2.0",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "podcastindex@getalby.com",
+                "split": 1,
+                "name": "Podcastindex.org",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nathan54@fountain.fm",
+                "split": 78,
+                "name": "nathan",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm ",
+              "split": 20,
+              "name": "NMNU",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 1,
+              "name": "MSP 2.0",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "podcastindex@getalby.com",
+              "split": 1,
+              "name": "Podcastindex.org",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nathan54@fountain.fm",
+              "split": 78,
+              "name": "nathan",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "55199efd-4324-4cd1-8832-eb85c2db0145",
+          "feedGuid": "9751f439-2ffc-43ed-bcae-2905e6fe3438",
+          "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/hookah-band/NATHAN%20-HOOKAH.jpeg"
+        }
+      ],
+      "releaseDate": "Thu, 02 Apr 2026 17:20:07 GMT",
+      "link": "https://nathanabbottmusic.co.uk",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "suggested": "0.000033333",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm ",
+            "split": 20,
+            "name": "NMNU",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "chadf@getalby.com",
+            "split": 1,
+            "name": "MSP 2.0",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "podcastindex@getalby.com",
+            "split": 1,
+            "name": "Podcastindex.org",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nathan54@fountain.fm",
+            "split": 78,
+            "name": "nathan",
+            "fee": false
+          }
+        ]
+      },
+      "keywords": [
+        "rock",
+        "indie",
+        "music"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "owner": {
+        "name": "New Music Nudge Unit",
+        "email": "newmusicnudgeunit@gmail.com"
+      },
+      "publisher": {
+        "feedGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "nmnu@fountain.fm ",
+          "split": 20,
+          "name": "NMNU",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "chadf@getalby.com",
+          "split": 1,
+          "name": "MSP 2.0",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "podcastindex@getalby.com",
+          "split": 1,
+          "name": "Podcastindex.org",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nathan54@fountain.fm",
+          "split": 78,
+          "name": "nathan",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "9751f439-2ffc-43ed-bcae-2905e6fe3438",
+      "feedUrl": "https://headstarts.uk/msp/Nathan Abbott/hookah-band/Hookah.xml",
+      "publisherGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+      "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/hookah-band/NATHAN%20-HOOKAH.jpeg",
+      "feedId": "https-headstarts-uk-msp-nathan-abbott-hookah-band-hookah-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "Good Enough (Single)",
+      "artist": "Nathan Abbott",
+      "description": "Good Enough\nWritten and performed by Nathan Abbott\n\nProduced, recorded, mixed, and mastered by Nathan Abbott\n\nPublished by The New Music Nudge Unit\n\nGood Enough is a stripped-back reflection on self-worth, expectation, and the quiet work of learning to accept yourself without conditions. The production mirrors the song’s intent—unadorned, intimate, and deliberately honest—allowing the emotion to lead rather than the polish.\n\nNathan Abbott is an independent artist operating within the Valueverse, where listeners are invited to directly support the music and the creative process behind it. By choosing to engage in this way, fans play an active role in sustaining independent art beyond traditional industry models.\n\nMore information, music, and ways to support can be found at\nnathanabbottmusic.co.uk",
+      "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/good%20enough/good%20enough%20-%20single%20cover.jpg",
+      "tracks": [
+        {
+          "title": "Good Enough",
+          "duration": "2:38",
+          "url": "https://headstarts.uk/msp/Nathan%20Abbott/good%20enough/track%201/Good%20Enough.mp3",
+          "trackNumber": 1,
+          "subtitle": "Good Enough",
+          "summary": "Good EnoughWritten and performed by Nathan Abbott\nProduced, recorded, mixed, and mastered by Nathan Abbott\nPublished by The New Music Nudge Unit\nGood Enough is a stripped-back reflection on self-worth, expectation, and the quiet work of learning to accept yourself without conditions. The production mirrors the song&rsquo;s intent&mdash;unadorned, intimate, and deliberately honest&mdash;allowing the emotion to lead rather than the polish.\nNathan Abbott is an independent artist operating within the Valueverse, where listeners are invited to directly support the music and the creative process behind it. By choosing to engage in this way, fans play an active role in sustaining independent art beyond traditional industry models.\nMore information, music, and ways to support can be found atnathanabbottmusic.co.uk",
+          "image": "https://headstarts.uk/msp/Nathan%20Abbott/good%20enough/good%20enough%20-%20single%20cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nathan54@fountain.fm",
+                "split": 79,
+                "name": "Nathan Abbott",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nathan54@fountain.fm",
+              "split": 79,
+              "name": "Nathan Abbott",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "fe3f3da0-81e4-4b9a-b58d-b5ab5ad64d04",
+          "feedGuid": "cfcabfcf-fdf1-556b-8955-94d48dbb6dcb",
+          "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/good%20enough/good%20enough%20-%20single%20cover.jpg"
+        }
+      ],
+      "releaseDate": "Thu, 15 Jan 2026 18:02:17 GMT",
+      "link": "nathanabbottmusic.co.uk",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "suggested": "5e-8",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "nathan54@fountain.fm",
+            "split": 79,
+            "name": "Nathan",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "steven@getalby.com",
+            "split": 1,
+            "name": "Sovereign Feeds",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "nmnu",
+            "fee": false
+          }
+        ]
+      },
+      "subtitle": "Good Enough",
+      "summary": "Good EnoughWritten and performed by Nathan Abbott\nProduced, recorded, mixed, and mastered by Nathan Abbott\nPublished by The New Music Nudge Unit\nGood Enough is a stripped-back reflection on self-worth, expectation, and the quiet work of learning to accept yourself without conditions. The production mirrors the song&rsquo;s intent&mdash;unadorned, intimate, and deliberately honest&mdash;allowing the emotion to lead rather than the polish.\nNathan Abbott is an independent artist operating within the Valueverse, where listeners are invited to directly support the music and the creative process behind it. By choosing to engage in this way, fans play an active role in sustaining independent art beyond traditional industry models.\nMore information, music, and ways to support can be found atnathanabbottmusic.co.uk",
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "owner": {
+        "name": "nmnu",
+        "email": "newmusicnudgeunit@gmail.com"
+      },
+      "publisher": {
+        "feedGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "nathan54@fountain.fm",
+          "split": 79,
+          "name": "Nathan",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "steven@getalby.com",
+          "split": 1,
+          "name": "Sovereign Feeds",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "nmnu",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "cfcabfcf-fdf1-556b-8955-94d48dbb6dcb",
+      "feedUrl": "https://headstarts.uk/msp/Nathan Abbott/good enough/Good Enough.xml",
+      "publisherGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+      "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/good%20enough/good%20enough%20-%20single%20cover.jpg",
+      "feedId": "https-headstarts-uk-msp-nathan-abbott-good-enough-good-enough-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "Tea Song (Single)",
+      "artist": "Nathan Abbott",
+      "description": "The latest track released into the valueverse by Nathan Abbott - Published by the New Music Nudge Unit. 🎸 www.nathanabbottmusic.co.uk\n\ntrack 1 “Tea Song” written and performed by Nathan Abbott",
+      "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/tea-song/TEA%20SONG%20COVER.jpg",
+      "tracks": [
+        {
+          "title": "Tea Song",
+          "duration": "4:55",
+          "url": "https://headstarts.uk/msp/Nathan%20Abbott/tea-song/tea%20song.mp3",
+          "trackNumber": 1,
+          "subtitle": "Tea Song",
+          "summary": "by Nathan Abbott🎸 www.nathanabbottmusic.co.uk\nNathan Abbott returns with a track called Tea Song written and performed by nathan abbott",
+          "image": "https://headstarts.uk/msp/Nathan%20Abbott/tea-song/TEA%20SONG%20COVER.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nathan54@fountain.fm",
+                "split": 78,
+                "name": "Nathan",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 2,
+                "name": "Sovereign Feeds",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "New Music Nudge Unit",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nathan54@fountain.fm",
+              "split": 78,
+              "name": "Nathan",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 2,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "New Music Nudge Unit",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "03e8bdbd-4c52-4759-9fbb-b63df91de03c",
+          "feedGuid": "356501f6-7b74-510d-baa7-386600edab07",
+          "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/tea-song/TEA%20SONG%20COVER.jpg"
+        }
+      ],
+      "releaseDate": "Thu, 18 Dec 2025 14:55:08 GMT",
+      "link": "https://nathanabbottmusic.co.uk",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "suggested": "5e-8",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "nathan54@fountain.fm",
+            "split": 78,
+            "name": "Nathan",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "steven@getalby.com",
+            "split": 2,
+            "name": "Sovereign Feeds",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "New Music Nudge Unit",
+            "fee": false
+          }
+        ]
+      },
+      "subtitle": "Tea Song",
+      "summary": "by Nathan Abbott🎸 www.nathanabbottmusic.co.uk\nNathan Abbott returns with a track called Tea Song written and performed by nathan abbott",
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "publisher": {
+        "feedGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "nathan54@fountain.fm",
+          "split": 78,
+          "name": "Nathan",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "steven@getalby.com",
+          "split": 2,
+          "name": "Sovereign Feeds",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "New Music Nudge Unit",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "356501f6-7b74-510d-baa7-386600edab07",
+      "feedUrl": "https://headstarts.uk/msp/Nathan Abbott/tea-song/Tea Song (Single).xml",
+      "publisherGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+      "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/tea-song/TEA%20SONG%20COVER.jpg",
+      "feedId": "https-headstarts-uk-msp-nathan-abbott-tea-song-tea-song-single-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "Oh My-On the Shelf",
+      "artist": "Nathan Abbott",
+      "description": "Double A-Side Release: “Oh My” / “On the Shelf”\nby Nathan Abbott\n🎸 www.nathanabbottmusic.co.uk\n\nNathan Abbott returns with a powerful double A-side that shows off two distinct but equally compelling sides of his songwriting. “Oh My” and “On the Shelf” are a perfect pairing—one smoulders, the other swings.\n\ntrack 1 “Oh My” written and performed by nathan abbott \ntrack 2 \"On the Shelf\" written and performed by nathan abbott",
+      "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/oh-my/oh-my-cover.png",
+      "tracks": [
+        {
+          "title": "Oh My",
+          "duration": "3:40",
+          "url": "https://headstarts.uk/msp/Nathan%20Abbott/oh-my/track%201/oh-my.mp3",
+          "trackNumber": 1,
+          "image": "https://headstarts.uk/msp/Nathan%20Abbott/oh-my/oh-my-cover.png",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nathan54@fountain.fm",
+                "split": 79,
+                "name": "nathan",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nathan54@fountain.fm",
+              "split": 79,
+              "name": "nathan",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "a3873960-8873-4a9e-a381-cc2741050714",
+          "feedGuid": "5c2ab722-886e-5d6f-a268-f52802852e94",
+          "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/oh-my/oh-my-cover.png"
+        },
+        {
+          "title": "On the Shelf",
+          "duration": "3:55",
+          "url": "https://headstarts.uk/msp/Nathan%20Abbott/oh-my/track%202/on%20the%20shelf.mp3",
+          "trackNumber": 2,
+          "image": "https://headstarts.uk/msp/Nathan%20Abbott/oh-my/on-the-shelf-cover.png",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nathan54@fountain.fm",
+                "split": 79,
+                "name": "nathan54",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nathan54@fountain.fm",
+              "split": 79,
+              "name": "nathan54",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "380806bc-4aae-4a36-b46c-7ca85a96113a",
+          "feedGuid": "5c2ab722-886e-5d6f-a268-f52802852e94",
+          "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/oh-my/on-the-shelf-cover.png"
+        }
+      ],
+      "releaseDate": "Sun, 07 Dec 2025 11:45:17 GMT",
+      "link": "https://nathanabbottmusic.co.uk/",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "nathan54@fountain.fm",
+            "split": 79,
+            "name": "nathan54",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "nmnu",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "steven@getalby.com",
+            "split": 1,
+            "name": "Sovereign Feeds",
+            "fee": false
+          }
+        ]
+      },
+      "keywords": [
+        "music"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "publisher": {
+        "feedGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "nathan54@fountain.fm",
+          "split": 79,
+          "name": "nathan54",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "nmnu",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "steven@getalby.com",
+          "split": 1,
+          "name": "Sovereign Feeds",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "5c2ab722-886e-5d6f-a268-f52802852e94",
+      "feedUrl": "https://headstarts.uk/msp/Nathan Abbott/oh-my/oh-my_on-the-shelf.xml",
+      "publisherGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+      "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/oh-my/oh-my-cover.png",
+      "feedId": "https-headstarts-uk-msp-nathan-abbott-oh-my-oh-my-on-the-shelf-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "Sweet Sunshine (single)",
+      "artist": "Nathan Abbott",
+      "description": "The singer songwriter from Southend, Essex. England. Releases his 3rd single into the valueverse called sweet sunshine. All songs written and recorded by Nathan Abbott. hosted by @NMNU https://bitcoinessex.co.uk/new-music-nudge-unit/#nathan\n\ngig news at https://bitcoinessex.co.uk/new-music-nudge-unit/#nathan",
+      "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/sweet_sunshine/sweet-sunshine-nathan-abbott.jpg",
+      "tracks": [
+        {
+          "title": "Sweet Sunshine",
+          "duration": "2:24",
+          "url": "https://headstarts.uk/msp/Nathan%20Abbott/sweet_sunshine/track%201/sweet_sunshine.mp3",
+          "trackNumber": 1,
+          "image": "https://headstarts.uk/msp/Nathan%20Abbott/sweet_sunshine/sweet-sunshine-nathan-abbott.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nathan54@fountain.fm",
+                "split": 79,
+                "name": "nathan54",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nathan54@fountain.fm",
+              "split": 79,
+              "name": "nathan54",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "ea0c7bc9-7df2-4957-a1a3-71690ff776b9",
+          "feedGuid": "041b07a8-22e4-557e-9649-9eaf849b6317",
+          "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/sweet_sunshine/sweet-sunshine-nathan-abbott.jpg"
+        }
+      ],
+      "releaseDate": "Sun, 07 Dec 2025 11:53:12 GMT",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/#nathan",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "nmnu",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nathan54@fountain.fm",
+            "split": 79,
+            "name": "nathan54",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "steven@getalby.com",
+            "split": 1,
+            "name": "Sovereign Feeds",
+            "fee": false
+          }
+        ]
+      },
+      "keywords": [
+        "music"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "publisher": {
+        "feedGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "nmnu",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nathan54@fountain.fm",
+          "split": 79,
+          "name": "nathan54",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "steven@getalby.com",
+          "split": 1,
+          "name": "Sovereign Feeds",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "041b07a8-22e4-557e-9649-9eaf849b6317",
+      "feedUrl": "https://headstarts.uk/msp/Nathan Abbott/sweet_sunshine/sweet_sunshine.xml",
+      "publisherGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+      "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/sweet_sunshine/sweet-sunshine-nathan-abbott.jpg",
+      "feedId": "https-headstarts-uk-msp-nathan-abbott-sweet-sunshine-sweet-sunshine-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "ONE",
+      "artist": "Nathan Abbott",
+      "description": "The singer songwriter from Southend, Essex. England. Releases his first ep into the valueverse called ONE\n\nAll songs written and recorded by Nathan Abbott. \nhosted by @NMNU https://bitcoinessex.co.uk/new-music-nudge-unit/#nathan",
+      "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png",
+      "tracks": [
+        {
+          "title": "Jenny",
+          "duration": "4:11",
+          "url": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/track%201/jenny.mp3",
+          "trackNumber": 1,
+          "image": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nathan54@fountain.fm",
+                "split": 79,
+                "name": "nathan54",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nathan54@fountain.fm",
+              "split": 79,
+              "name": "nathan54",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "69a4639c-f539-49e7-a814-5cc4a72911da",
+          "feedGuid": "400284cf-5de9-5d93-be3c-aa6f7ed2f9dd",
+          "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png"
+        },
+        {
+          "title": "Looking Glass",
+          "duration": "4:30",
+          "url": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/track%202/looking%20glass.mp3",
+          "trackNumber": 2,
+          "image": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nathan54@fountain.fm",
+                "split": 79,
+                "name": "nathan54",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nathan54@fountain.fm",
+              "split": 79,
+              "name": "nathan54",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "a94e3a0e-906e-4528-af4a-afffbd382ca6",
+          "feedGuid": "400284cf-5de9-5d93-be3c-aa6f7ed2f9dd",
+          "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png"
+        },
+        {
+          "title": "Fifty to One",
+          "duration": "3:10",
+          "url": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/track%203/fifty%20to%20one.mp3",
+          "trackNumber": 3,
+          "image": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nathan54@fountain.fm",
+                "split": 79,
+                "name": "nathan54",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nathan54@fountain.fm",
+              "split": 79,
+              "name": "nathan54",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "fd9e2b87-4aad-4b59-ad32-0795355ccb23",
+          "feedGuid": "400284cf-5de9-5d93-be3c-aa6f7ed2f9dd",
+          "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png"
+        },
+        {
+          "title": "The Big I Am",
+          "duration": "4:15",
+          "url": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/track%204/thebig-i-am.mp3",
+          "trackNumber": 4,
+          "image": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nathan54@fountain.fm",
+                "split": 79,
+                "name": "nathan54",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nathan54@fountain.fm",
+              "split": 79,
+              "name": "nathan54",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "78f7412e-ccd8-4f95-b3dd-67105c1036ab",
+          "feedGuid": "400284cf-5de9-5d93-be3c-aa6f7ed2f9dd",
+          "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png"
+        },
+        {
+          "title": "Outside looking in",
+          "duration": "4:00",
+          "url": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/track%205/Nathan%20Abbott%20-%20Outside%20looking%20in.mp3",
+          "trackNumber": 5,
+          "image": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nathan54@fountain.fm",
+                "split": 79,
+                "name": "nathan54",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nathan54@fountain.fm",
+              "split": 79,
+              "name": "nathan54",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "3a2faca4-f859-4417-8597-dde41f24f34b",
+          "feedGuid": "400284cf-5de9-5d93-be3c-aa6f7ed2f9dd",
+          "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png"
+        }
+      ],
+      "releaseDate": "Sun, 07 Dec 2025 11:50:45 GMT",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/#nathan",
+      "value": {
+        "type": "lightning",
+        "method": "keysend",
+        "recipients": [
+          {
+            "type": "node",
+            "address": "035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8",
+            "split": 1,
+            "name": "Music Side Project",
+            "fee": false
+          },
+          {
+            "type": "node",
+            "address": "03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79",
+            "split": 79,
+            "name": "nathan",
+            "customKey": "906608",
+            "customValue": "01bPdwrCSphR4K4jlk3zYy",
+            "fee": false
+          },
+          {
+            "type": "node",
+            "address": "03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79",
+            "split": 20,
+            "name": "nmnu",
+            "customKey": "906608",
+            "customValue": "01Bh8XFGZIxmEBgXGECzej",
+            "fee": false
+          }
+        ]
+      },
+      "keywords": [
+        "music"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "publisher": {
+        "feedGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8",
+          "split": 1,
+          "name": "Music Side Project",
+          "fee": false,
+          "type": "node"
+        },
+        {
+          "address": "03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79",
+          "split": 79,
+          "name": "nathan",
+          "fee": false,
+          "type": "node"
+        },
+        {
+          "address": "03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79",
+          "split": 20,
+          "name": "nmnu",
+          "fee": false,
+          "type": "node"
+        }
+      ],
+      "feedGuid": "400284cf-5de9-5d93-be3c-aa6f7ed2f9dd",
+      "feedUrl": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one.xml",
+      "publisherGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+      "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/ONE/one-cover.png",
+      "feedId": "https-headstarts-uk-msp-nathan-20abbott-one-one-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "Into the Light",
+      "artist": "Nathan Abbott",
+      "description": "The first song uploaded to the value verse by Nathan Abbott - Into the Light written and performed by Nathan Abbott - For more details go to nostr search new music nudge unit. website https://bitcoinessex.co.uk/new-music-nudge-unit/#nathan",
+      "coverArt": "https://headstarts.uk/msp/Nathan%20Abbott/Into%20the%20Light/Into%20the%20Light%20Cover.png",
+      "tracks": [
+        {
+          "title": "Into the Light",
+          "duration": "3:39",
+          "url": "https://headstarts.uk/msp/Nathan%20Abbott/Into%20the%20Light/track%201/(Copy)%20Nathan%20Abbott%20-%20%20The%20Light%20-%2024-44.mp3",
+          "trackNumber": 1,
+          "image": "https://headstarts.uk/msp/Nathan%20Abbott/Into%20the%20Light/Into%20the%20Light%20Cover.png",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nathan54@fountain.fm",
+                "split": 79,
+                "name": "nathan",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu@fountain.fm",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nathan54@fountain.fm",
+              "split": 79,
+              "name": "nathan",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu@fountain.fm",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "031bfdab-70f9-4019-b52c-6d7d53a025d9",
+          "feedGuid": "48371d3b-7c61-51f4-97b8-7a4458e576d0",
+          "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/Into%20the%20Light/Into%20the%20Light%20Cover.png"
+        }
+      ],
+      "releaseDate": "Sun, 07 Dec 2025 11:40:33 GMT",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/#artists",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "nathan54@fountain.fm",
+            "split": 79,
+            "name": "nathan54@fountain.fm",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "nmnu@fountain.fm",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "steven@getalby.com",
+            "split": 1,
+            "name": "Sovereign Feeds",
+            "fee": false
+          }
+        ]
+      },
+      "keywords": [
+        "music"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "publisher": {
+        "feedGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "nathan54@fountain.fm",
+          "split": 79,
+          "name": "nathan54@fountain.fm",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "nmnu@fountain.fm",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "steven@getalby.com",
+          "split": 1,
+          "name": "Sovereign Feeds",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "48371d3b-7c61-51f4-97b8-7a4458e576d0",
+      "feedUrl": "https://headstarts.uk/msp/Nathan%20Abbott/Into%20the%20Light/into%20the%20light.xml",
+      "publisherGuid": "c0d95236-3400-43e6-9721-d3904f182767",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/nathan-abbott-everything.xml",
+      "imageUrl": "https://headstarts.uk/msp/Nathan%20Abbott/Into%20the%20Light/Into%20the%20Light%20Cover.png",
+      "feedId": "https-headstarts-uk-msp-nathan-20abbott-into-20the-20light-into-20the-20light-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "The Raven",
+      "artist": "Fable",
+      "description": "The New Album by Fable released into the valueverse by New Music Nudge Unit  · Fable · Phillip Ratcliffe · James Key · James Key · Alan Keary · Vincent Taylor · Keith Devlin · Angelous Gavriilidis \n\nPublished by New Music Nudge Unit - Decentralising Music, Without Labels, Without Spotify and Without Permission since 2023!",
+      "coverArt": "https://headstarts.uk/msp/fable%20music/the%20raven/the%20raven.jpg",
+      "tracks": [
+        {
+          "title": "Sound of the Drum",
+          "duration": "3:45",
+          "url": "https://headstarts.uk/msp/fable%20music/the%20raven/track%201/Sound%20of%20the%20Drum.mp3",
+          "trackNumber": 1,
+          "image": "https://headstarts.uk/msp/fable%20music/the%20raven/the%20raven.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "Treeshapes3333@fountain.fm",
+                "split": 78,
+                "name": "Fable",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 2,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "Treeshapes3333@fountain.fm",
+              "split": 78,
+              "name": "Fable",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 2,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "b47be111-6b93-4d04-965a-215a3df51928",
+          "feedGuid": "93be285b-1cef-5cef-85ec-5ec11b07af3d",
+          "imageUrl": "https://headstarts.uk/msp/fable%20music/the%20raven/the%20raven.jpg"
+        }
+      ],
+      "releaseDate": "Thu, 15 Jan 2026 12:09:20 GMT",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/#fable",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "nmnu",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "Treeshapes3333@fountain.fm",
+            "split": 78,
+            "name": "Fable",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "steven@getalby.com",
+            "split": 2,
+            "name": "Sovereign Feeds",
+            "fee": false
+          }
+        ]
+      },
+      "keywords": [
+        "music"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "publisher": {
+        "feedGuid": "debcc8e4-f7d0-4628-93d2-362db11cf59e",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/fable.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "nmnu",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "Treeshapes3333@fountain.fm",
+          "split": 78,
+          "name": "Fable",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "steven@getalby.com",
+          "split": 2,
+          "name": "Sovereign Feeds",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "93be285b-1cef-5cef-85ec-5ec11b07af3d",
+      "feedUrl": "https://headstarts.uk/msp/fable music/the raven/the raven.xml",
+      "publisherGuid": "debcc8e4-f7d0-4628-93d2-362db11cf59e",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/fable.xml",
+      "imageUrl": "https://headstarts.uk/msp/fable%20music/the%20raven/the%20raven.jpg",
+      "feedId": "https-headstarts-uk-msp-fable-music-the-raven-the-raven-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "Trickster",
+      "artist": "Fable",
+      "description": "The First album released in the valueverse by Fable · Phillip Ratcliffe · James Key · Alan Keary · Vincent Taylor · Keith Devlin · Angelous Gavriilidis\n\nThe Album is Trickster, The band is Fable, The band is from Manchester, England. \nPublished by the NEW MUSIC NUDGE UNIT \n\nReleased on: 2025-01-22\ndemu",
+      "coverArt": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg",
+      "tracks": [
+        {
+          "title": "Samsara",
+          "duration": "3:46",
+          "url": "https://headstarts.uk/msp/fable%20music/trickster/track%201/01%20Samsara.mp3",
+          "trackNumber": 1,
+          "image": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "Treeshapes3333@fountain.fm",
+                "split": 79,
+                "name": "Treeshapes3333",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "Treeshapes3333@fountain.fm",
+              "split": 79,
+              "name": "Treeshapes3333",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "f002a096-086e-48bb-8672-036b717d80ee",
+          "feedGuid": "04e812f9-1993-5aa1-9ab5-a9cf0cd81e82",
+          "imageUrl": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg"
+        },
+        {
+          "title": "One Step",
+          "duration": "3:42",
+          "url": "https://headstarts.uk/msp/fable%20music/trickster/track%202/02%20One%20Step.mp3",
+          "trackNumber": 2,
+          "image": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "Treeshapes3333@fountain.fm",
+                "split": 79,
+                "name": "Vinny",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "Treeshapes3333@fountain.fm",
+              "split": 79,
+              "name": "Vinny",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "56a979f5-a2ab-48d6-8e3f-6c8131004a25",
+          "feedGuid": "04e812f9-1993-5aa1-9ab5-a9cf0cd81e82",
+          "imageUrl": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg"
+        },
+        {
+          "title": "Been here before",
+          "duration": "4:04",
+          "url": "https://headstarts.uk/msp/fable%20music/trickster/track%203/03%20Been%20Here%20Before.mp3",
+          "trackNumber": 3,
+          "image": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "Treeshapes3333@fountain.fm",
+                "split": 79,
+                "name": "vinny",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "Treeshapes3333@fountain.fm",
+              "split": 79,
+              "name": "vinny",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "22910b47-bfe6-4ac4-a771-d73569dac524",
+          "feedGuid": "04e812f9-1993-5aa1-9ab5-a9cf0cd81e82",
+          "imageUrl": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg"
+        },
+        {
+          "title": "Beautiful Lie",
+          "duration": "5:01",
+          "url": "https://headstarts.uk/msp/fable%20music/trickster/track%204/04%20Beautiful%20Lie.mp3",
+          "trackNumber": 4,
+          "image": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "Treeshapes3333@fountain.fm",
+                "split": 79,
+                "name": "vinny",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "Treeshapes3333@fountain.fm",
+              "split": 79,
+              "name": "vinny",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "ad48ac9a-4486-4f24-9880-4dd064864195",
+          "feedGuid": "04e812f9-1993-5aa1-9ab5-a9cf0cd81e82",
+          "imageUrl": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg"
+        },
+        {
+          "title": "Hocus Pocus",
+          "duration": "3:34",
+          "url": "https://headstarts.uk/msp/fable%20music/trickster/track%205/05%20Hocus%20Pocus.mp3",
+          "trackNumber": 5,
+          "image": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "Treeshapes3333@fountain.fm",
+                "split": 79,
+                "name": "vinny",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "Treeshapes3333@fountain.fm",
+              "split": 79,
+              "name": "vinny",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "b383d516-6cd9-4853-b447-2c9181260189",
+          "feedGuid": "04e812f9-1993-5aa1-9ab5-a9cf0cd81e82",
+          "imageUrl": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg"
+        },
+        {
+          "title": "Radio",
+          "duration": "4:45",
+          "url": "https://headstarts.uk/msp/fable%20music/trickster/track%206/06%20Radio.mp3",
+          "trackNumber": 6,
+          "image": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "Treeshapes3333@fountain.fm",
+                "split": 79,
+                "name": "vinny",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "Treeshapes3333@fountain.fm",
+              "split": 79,
+              "name": "vinny",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "84fd7d0d-434b-4119-ae15-363e716bfee3",
+          "feedGuid": "04e812f9-1993-5aa1-9ab5-a9cf0cd81e82",
+          "imageUrl": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg"
+        },
+        {
+          "title": "Post Human World",
+          "duration": "3:41",
+          "url": "https://headstarts.uk/msp/fable%20music/trickster/track%207/07%20Post%20Human%20World.mp3",
+          "trackNumber": 7,
+          "image": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "Treeshapes3333@fountain.fm",
+                "split": 79,
+                "name": "Vinny",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "Treeshapes3333@fountain.fm",
+              "split": 79,
+              "name": "Vinny",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "a0dbecf2-dd83-4a38-8995-de60b73043ce",
+          "feedGuid": "04e812f9-1993-5aa1-9ab5-a9cf0cd81e82",
+          "imageUrl": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg"
+        },
+        {
+          "title": "The Whip",
+          "duration": "3:57",
+          "url": "https://headstarts.uk/msp/fable%20music/trickster/track%208/08%20The%20Whip.mp3",
+          "trackNumber": 8,
+          "image": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "Treeshapes3333@fountain.fm",
+                "split": 79,
+                "name": "treeshapes3333",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "Treeshapes3333@fountain.fm",
+              "split": 79,
+              "name": "treeshapes3333",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "1ba72b21-95b7-4a78-8798-ef832eb30027",
+          "feedGuid": "04e812f9-1993-5aa1-9ab5-a9cf0cd81e82",
+          "imageUrl": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg"
+        },
+        {
+          "title": "War",
+          "duration": "5:15",
+          "url": "https://headstarts.uk/msp/fable%20music/trickster/track%209/09%20War.mp3",
+          "trackNumber": 9,
+          "image": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "Treeshapes3333@fountain.fm",
+                "split": 79,
+                "name": "Treeshapes3333",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "Treeshapes3333@fountain.fm",
+              "split": 79,
+              "name": "Treeshapes3333",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "31bc146f-5e1b-424b-a848-88a19ac457d7",
+          "feedGuid": "04e812f9-1993-5aa1-9ab5-a9cf0cd81e82",
+          "imageUrl": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg"
+        }
+      ],
+      "releaseDate": "Thu, 15 Jan 2026 12:20:32 GMT",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/#fable",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "nmnu",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "Treeshapes3333@fountain.fm",
+            "split": 79,
+            "name": "Vinny",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "steven@getalby.com",
+            "split": 1,
+            "name": "Sovereign Feeds",
+            "fee": false
+          }
+        ]
+      },
+      "keywords": [
+        "music"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "owner": {
+        "name": "Aaron",
+        "email": "newmusicnudgeunit@gmail.com"
+      },
+      "publisher": {
+        "feedGuid": "debcc8e4-f7d0-4628-93d2-362db11cf59e",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/fable.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "nmnu",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "Treeshapes3333@fountain.fm",
+          "split": 79,
+          "name": "Vinny",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "steven@getalby.com",
+          "split": 1,
+          "name": "Sovereign Feeds",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "04e812f9-1993-5aa1-9ab5-a9cf0cd81e82",
+      "feedUrl": "https://headstarts.uk/msp/fable%20music/trickster/trickster.xml",
+      "publisherGuid": "debcc8e4-f7d0-4628-93d2-362db11cf59e",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/fable.xml",
+      "imageUrl": "https://headstarts.uk/msp/fable%20music/trickster/cover%20digital.jpg",
+      "feedId": "https-headstarts-uk-msp-fable-20music-trickster-trickster-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "Circles",
+      "artist": "Hear My Roar",
+      "description": "In the heart of Southend, where seaworn concrete meets neon-lit promise, Hear My Roar emerged as a female-fronted tribe of misfits determined to carve out a sound that refuses to sit quietly in the corner. Their music is urgent, melodic, unapologetically loud—built from the grit of the coast, the pulse of the clubs, and the unshaken conviction that every voice deserves to be heard.\n\nNow carried into the Valueverse by the New Mudge Unit, this release captures the band at a moment of raw ignition. Their songs surge forward with a blend of heavy hooks and atmospheric fire, each track shaped by the individual strengths of its members:\n\nKate West – vocals & acoustic guitar\n\n[Member Name] – guitar\n\n[Member Name] – bass\n\n[Member Name] – drums\n\n[Additional Member / Role]\n\nUnited by a shared sense of purpose, they channel their varied backgrounds into something bigger than any single story—a collective roar that cuts through static and doubt alike.\n\nHear My Roar doesn’t just perform; they declare themselves. And with this publication into the Valueverse, the declaration only grows louder.",
+      "coverArt": "https://headstarts.uk/msp/hear-my-roar/hearmyroar%20logo.jpg",
+      "tracks": [
+        {
+          "title": "I'm Alive",
+          "duration": "5:54",
+          "url": "https://op3.dev/e,pg=fbd96f01-fc53-577d-a71c-a97994fa646a/headstarts.uk/msp/hear-my-roar/circles/track%201/I'm%20Alive.mp3",
+          "trackNumber": 1,
+          "image": "https://headstarts.uk/msp/hear-my-roar/hearmyroar%20logo.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "hearmyroar@fountain.fm",
+                "split": 78,
+                "name": "hearmyroar",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 2,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "hearmyroar@fountain.fm",
+              "split": 78,
+              "name": "hearmyroar",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 2,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "5d3ad3a9-961c-40d5-a462-f7e0b16618e9",
+          "feedGuid": "fbd96f01-fc53-577d-a71c-a97994fa646a",
+          "imageUrl": "https://headstarts.uk/msp/hear-my-roar/hearmyroar%20logo.jpg"
+        },
+        {
+          "title": "Brutal",
+          "duration": "5:55",
+          "url": "https://op3.dev/e,pg=fbd96f01-fc53-577d-a71c-a97994fa646a/headstarts.uk/msp/hear-my-roar/circles/track%202/brutal.mp3",
+          "trackNumber": 2,
+          "subtitle": "Brutal",
+          "summary": "Hailing from Southend, Hear My Roar are a female-fronted tribe of misfits who turn intensity into connection and volume into clarity. Their sound walks the line between melody and force, creating songs that feel both personal and confrontational.\n&ldquo;Brutal&rdquo; marks another step in Hear My Roar&rsquo;s journey into the Valueverse, published by the New Music Nudge Unit. It captures the band at their most honest&mdash;unpolished where it matters, powerful where it counts, and fully committed to making music that leaves a mark.",
+          "image": "https://headstarts.uk/msp/hear-my-roar/hearmyroar%20logo.jpg",
+          "explicit": false,
+          "keywords": [
+            "Kate West",
+            "Essex",
+            "Music",
+            "Band"
+          ],
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "hearmyroar@fountain.fm",
+                "split": 78,
+                "name": "hearmyroar",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 2,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "hearmyroar@fountain.fm",
+              "split": 78,
+              "name": "hearmyroar",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 2,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "bf157de8-cc4b-475a-8e38-df0b6983abaf",
+          "feedGuid": "fbd96f01-fc53-577d-a71c-a97994fa646a",
+          "imageUrl": "https://headstarts.uk/msp/hear-my-roar/hearmyroar%20logo.jpg"
+        },
+        {
+          "title": "Made For You",
+          "duration": "5:20",
+          "url": "https://op3.dev/e,pg=fbd96f01-fc53-577d-a71c-a97994fa646a/headstarts.uk/msp/hear-my-roar/circles/track%203/made%20for%20you.mp3",
+          "trackNumber": 3,
+          "image": "https://headstarts.uk/msp/hear-my-roar/hearmyroar%20logo.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "hearmyroar@fountain.fm",
+                "split": 78,
+                "name": "hearmyroar",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 2,
+                "name": "chadf",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "hearmyroar@fountain.fm",
+              "split": 78,
+              "name": "hearmyroar",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 2,
+              "name": "chadf",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "b72c6472-f9b4-4f2b-87eb-2558bef8a330",
+          "feedGuid": "fbd96f01-fc53-577d-a71c-a97994fa646a",
+          "imageUrl": "https://headstarts.uk/msp/hear-my-roar/hearmyroar%20logo.jpg"
+        }
+      ],
+      "releaseDate": "Thu, 15 Jan 2026 11:59:50 GMT",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/#hearmyroar",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "hearmyroar@fountain.fm",
+            "split": 78,
+            "name": "hearmyroar",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "nmnu",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "steven@getalby.com",
+            "split": 2,
+            "name": "Sovereign Feeds",
+            "fee": false
+          }
+        ]
+      },
+      "subtitle": "Brutal",
+      "summary": "Hailing from Southend, Hear My Roar are a female-fronted tribe of misfits who turn intensity into connection and volume into clarity. Their sound walks the line between melody and force, creating songs that feel both personal and confrontational.\n&ldquo;Brutal&rdquo; marks another step in Hear My Roar&rsquo;s journey into the Valueverse, published by the New Music Nudge Unit. It captures the band at their most honest&mdash;unpolished where it matters, powerful where it counts, and fully committed to making music that leaves a mark.",
+      "keywords": [
+        "music"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "owner": {
+        "name": "New Music Nudge Unit",
+        "email": "newmusicnudgeunit@gmail.com"
+      },
+      "publisher": {
+        "feedGuid": "44804bf7-547b-4126-a1b6-2571ec990bd1",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/hear-my-roar.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "hearmyroar@fountain.fm",
+          "split": 78,
+          "name": "hearmyroar",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "nmnu",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "steven@getalby.com",
+          "split": 2,
+          "name": "Sovereign Feeds",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "fbd96f01-fc53-577d-a71c-a97994fa646a",
+      "feedUrl": "https://headstarts.uk/msp/hear-my-roar/circles/circles.xml",
+      "publisherGuid": "44804bf7-547b-4126-a1b6-2571ec990bd1",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/hear-my-roar.xml",
+      "imageUrl": "https://headstarts.uk/msp/hear-my-roar/hearmyroar%20logo.jpg",
+      "feedId": "https-headstarts-uk-msp-hear-my-roar-circles-circles-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "Run To Safer Ground (single) HEIDI J MASTERS",
+      "artist": "Heidi J Masters",
+      "description": "Heidi J Masters is a UK singer-songwriter whose music blends heartfelt storytelling with powerful, emotive vocals. Her debut single Run to Safer Ground introduces listeners to a sound that is both intimate and anthemic, carrying themes of resilience, hope, and human connection. As part of the Valueverse, Heidi embraces the Value for Value model, releasing music directly to fans through open RSS feeds and value-enabled platforms like Fountain and LNbeats. With a voice that resonates across indie, folk, and pop audiences, Heidi J Masters is an artist to watch in 2025.\n\n#demu #nmnu \n\nTo learn more about the valueverse go to https://bitcoinessex.co.uk/new-music-nudge-unit/",
+      "coverArt": "https://headstarts.uk/msp/heidijmasters/heidi.png",
+      "tracks": [
+        {
+          "title": "Run To Safer Ground (single) - HEIDI J MASTERS",
+          "duration": "3:19",
+          "url": "https://headstarts.uk/msp/heidijmasters/track%201/Run%20To%20Safer%20Ground.mp3",
+          "trackNumber": 1,
+          "image": "https://headstarts.uk/msp/heidijmasters/heidi.png",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "keysend",
+            "suggested": "0.00000005000",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "quincy@fountain.fm",
+                "split": 78,
+                "name": "quincy",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 2,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "quincy@fountain.fm",
+              "split": 78,
+              "name": "quincy",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 2,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "31b1e1d3-564e-46bb-9cb9-5b6eb71e1336",
+          "feedGuid": "6ca5f56d-631f-5b2d-a93f-e5f9409da30d",
+          "imageUrl": "https://headstarts.uk/msp/heidijmasters/heidi.png"
+        }
+      ],
+      "releaseDate": "Thu, 15 Jan 2026 11:56:47 +0000",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/#heidi",
+      "value": {
+        "type": "lightning",
+        "method": "keysend",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "nmnu",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "quincy@fountain.fm",
+            "split": 78,
+            "name": "quincy",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "steven@getalby.com",
+            "split": 2,
+            "name": "Sovereign Feeds",
+            "fee": false
+          }
+        ]
+      },
+      "keywords": [
+        "music"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "paymentRecipients": [
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "nmnu",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "quincy@fountain.fm",
+          "split": 78,
+          "name": "quincy",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "steven@getalby.com",
+          "split": 2,
+          "name": "Sovereign Feeds",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "6ca5f56d-631f-5b2d-a93f-e5f9409da30d",
+      "feedUrl": "https://headstarts.uk/msp/heidijmasters/run-to-safer-ground-single.xml",
+      "imageUrl": "https://headstarts.uk/msp/heidijmasters/heidi.png",
+      "feedId": "https-headstarts-uk-msp-heidijmasters-run-to-safer-ground-single-xml",
+      "lastUpdated": "2026-04-09T01:41:52.807910Z"
+    },
+    {
+      "title": "Icarus",
+      "artist": "Jaded Jester",
+      "description": "Jaded Jester are a fierce female-fronted alt-rock force emerging from Southend-on-Sea, blending hard-hitting nu-metal energy with emotionally charged songwriting led by multi-instrumentalist and vocalist Val Fida, alongside bassist Craig Lione and drummer Lawrence Faulkner; their sound fuses driving riffs, atmospheric textures and raw, introspective lyricism exploring resilience, transformation and unapologetic self-expression, capturing attention with powerful releases that showcase both grit and vulnerability, and now — officially entering the Valueverse — their music is published by New Music Nudge Unit, positioning the band at the forefront of a new decentralised era where artists and listeners connect directly through value-for-value support.",
+      "coverArt": "https://headstarts.uk/msp/jaded-jester/icarus%20by%20jaded%20jester%20-%20album%20cover.jpeg",
+      "tracks": [
+        {
+          "title": "Nothing Left To Say",
+          "duration": "3:10",
+          "url": "https://op3.dev/e,pg=9d8ce850-8275-4a74-9622-1fd0cbe4b41d/headstarts.uk/msp/jaded-jester/track%207/7.%20Nothing%20Left%20To%20Say.mp3",
+          "trackNumber": 1,
+          "image": "https://headstarts.uk/msp/jaded-jester/icarus%20by%20jaded%20jester%20-%20album%20cover.jpeg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "0.000033333",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "jadedjesterband@fountain.fm",
+                "split": 78,
+                "name": "jaded jester",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 1,
+                "name": "MSP 2.0",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "podcastindex@getalby.com",
+                "split": 1,
+                "name": "Podcastindex.org",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "jadedjesterband@fountain.fm",
+              "split": 78,
+              "name": "jaded jester",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 1,
+              "name": "MSP 2.0",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "podcastindex@getalby.com",
+              "split": 1,
+              "name": "Podcastindex.org",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "483ed9f7-1d71-4ef2-982f-9f87874bf60f",
+          "feedGuid": "9d8ce850-8275-4a74-9622-1fd0cbe4b41d",
+          "imageUrl": "https://headstarts.uk/msp/jaded-jester/icarus%20by%20jaded%20jester%20-%20album%20cover.jpeg"
+        },
+        {
+          "title": "Losing Grip",
+          "duration": "4:09",
+          "url": "https://op3.dev/e,pg=9d8ce850-8275-4a74-9622-1fd0cbe4b41d/headstarts.uk/msp/jaded-jester/track%203/3.%20Jaded%20Jester%20-%20Losing%20Grip.mp3",
+          "trackNumber": 2,
+          "image": "https://headstarts.uk/msp/jaded-jester/icarus%20by%20jaded%20jester%20-%20album%20cover.jpeg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "0.000033333",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "jadedjesterband@fountain.fm",
+                "split": 78,
+                "name": "jaded jester",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 1,
+                "name": "MSP 2.0",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "podcastindex@getalby.com",
+                "split": 1,
+                "name": "Podcastindex.org",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "jadedjesterband@fountain.fm",
+              "split": 78,
+              "name": "jaded jester",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 1,
+              "name": "MSP 2.0",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "podcastindex@getalby.com",
+              "split": 1,
+              "name": "Podcastindex.org",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "3ae42d3a-8333-40d7-86e2-8b6730d6b6fb",
+          "feedGuid": "9d8ce850-8275-4a74-9622-1fd0cbe4b41d",
+          "imageUrl": "https://headstarts.uk/msp/jaded-jester/icarus%20by%20jaded%20jester%20-%20album%20cover.jpeg"
+        }
+      ],
+      "releaseDate": "Fri, 20 Feb 2026 14:19:11 GMT",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/#jj",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "suggested": "0.000033333",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "jadedjesterband@fountain.fm",
+            "split": 78,
+            "name": "jaded jester",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "chadf@getalby.com",
+            "split": 1,
+            "name": "MSP 2.0",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "podcastindex@getalby.com",
+            "split": 1,
+            "name": "Podcastindex.org",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "nmnu",
+            "fee": false
+          }
+        ]
+      },
+      "keywords": [
+        "rock",
+        "alt-rock",
+        "indie",
+        "nmnu",
+        "live",
+        "guitar",
+        "female",
+        "vocal"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "owner": {
+        "name": "New Music Nudge Unit",
+        "email": "newmusicnudgeunit@gmail.com"
+      },
+      "paymentRecipients": [
+        {
+          "address": "jadedjesterband@fountain.fm",
+          "split": 78,
+          "name": "jaded jester",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "chadf@getalby.com",
+          "split": 1,
+          "name": "MSP 2.0",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "podcastindex@getalby.com",
+          "split": 1,
+          "name": "Podcastindex.org",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "nmnu",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "9d8ce850-8275-4a74-9622-1fd0cbe4b41d",
+      "feedUrl": "https://headstarts.uk/msp/jaded-jester/Icarus.xml",
+      "imageUrl": "https://headstarts.uk/msp/jaded-jester/icarus%20by%20jaded%20jester%20-%20album%20cover.jpeg",
+      "feedId": "https-headstarts-uk-msp-jaded-jester-icarus-xml",
+      "lastUpdated": "2026-04-09T01:42:21.058138+00:00"
+    },
+    {
+      "title": "Singles",
+      "artist": "Frankie Peroni",
+      "description": "Frankie Peroni is a singer-songwriter based in the UK, originally from Essex (Westcliff-on-Sea). Frankie Peroni is an independent UK singer-songwriter from the Essex coast, crafting heartfelt pop with a DIY spirit and a storyteller’s edge. His music blends classic melodic songwriting with modern production, earning growing support across underground radio and online communities. Frankie is part of the evolving Valueverse music movement and is active on Nostr, connecting directly with fans while championing open, artist-first distribution.",
+      "coverArt": "https://headstarts.uk/msp/frankie-peroni/singles/singles-frankie-peroni.jpeg",
+      "tracks": [
+        {
+          "title": "How Will I Know What I Like (Until I Do It To You?)",
+          "duration": "3:07",
+          "url": "https://op3.dev/e,pg=7b2228f8-9963-483d-8741-1b6f37f830c4/headstarts.uk/msp/frankie-peroni/singles/track%201/How%20Wil%20I%20Know%20What%20I%20Like.mp3",
+          "trackNumber": 1,
+          "subtitle": "How Will I Know What I Like (Until I Do It To You?)",
+          "summary": "How Will I Know What I Like (Until I Do It To You?) is the debut single in the valueverse from Frankie Peroni.\nA concise, melodic pop-rock track running roughly 3:07, the song showcases Frankie&rsquo;s songwriting, vocals and acoustic-guitar foundation &mdash; setting the tone for the forthcoming album. Published by the New Music Nudge Unit. \nFrankie is also on Nostr - You should follow him. Frankie is also a resident DJ at Southend City Radio in Essex, UK.",
+          "image": "https://headstarts.uk/msp/frankie-peroni/singles/track%201/How-will-i-know-what-i-like.jpeg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "frankieperoni@fountain.fm",
+                "split": 79,
+                "name": "Frankie Peroni",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "NMNU",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "frankieperoni@fountain.fm",
+              "split": 79,
+              "name": "Frankie Peroni",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "NMNU",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "98b2eec4-9f9a-40ec-8885-f872bc6bc419",
+          "feedGuid": "7b2228f8-9963-483d-8741-1b6f37f830c4",
+          "imageUrl": "https://headstarts.uk/msp/frankie-peroni/singles/track%201/How-will-i-know-what-i-like.jpeg"
+        },
+        {
+          "title": "If You Build It They Will Come",
+          "duration": "4:29",
+          "url": "https://op3.dev/e,pg=7b2228f8-9963-483d-8741-1b6f37f830c4/headstarts.uk/msp/frankie-peroni/singles/track%202/If%20You%20Build%20It%20They%20Will%20Come.mp3",
+          "trackNumber": 2,
+          "image": "https://headstarts.uk/msp/frankie-peroni/singles/track%201/if%20you%20build%20it%20they%20will%20come.jpeg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "frankieperoni@fountain.fm",
+                "split": 78,
+                "name": "Frankie Peroni",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "NMNU",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 1,
+                "name": "MSP 2.0",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "podcastindex@getalby.com",
+                "split": 1,
+                "name": "Podcastindex.org",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "frankieperoni@fountain.fm",
+              "split": 78,
+              "name": "Frankie Peroni",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "NMNU",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 1,
+              "name": "MSP 2.0",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "podcastindex@getalby.com",
+              "split": 1,
+              "name": "Podcastindex.org",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "796d5041-eb9b-46fd-8cad-6a11932f3508",
+          "feedGuid": "7b2228f8-9963-483d-8741-1b6f37f830c4",
+          "imageUrl": "https://headstarts.uk/msp/frankie-peroni/singles/track%201/if%20you%20build%20it%20they%20will%20come.jpeg"
+        }
+      ],
+      "releaseDate": "Thu, 15 Jan 2026 12:02:00 GMT",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/#frankie",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "suggested": "5e-8",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "frankieperoni@fountain.fm",
+            "split": 78,
+            "name": "Frankie Peroni",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "NMNU",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "chadf@getalby.com",
+            "split": 1,
+            "name": "MSP 2.0",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "podcastindex@getalby.com",
+            "split": 1,
+            "name": "Podcastindex.org",
+            "fee": false
+          }
+        ]
+      },
+      "subtitle": "How Will I Know What I Like (Until I Do It To You?)",
+      "summary": "How Will I Know What I Like (Until I Do It To You?) is the debut single in the valueverse from Frankie Peroni.\nA concise, melodic pop-rock track running roughly 3:07, the song showcases Frankie&rsquo;s songwriting, vocals and acoustic-guitar foundation &mdash; setting the tone for the forthcoming album. Published by the New Music Nudge Unit. \nFrankie is also on Nostr - You should follow him. Frankie is also a resident DJ at Southend City Radio in Essex, UK.",
+      "keywords": [
+        "frankie",
+        "peroni",
+        "v4v",
+        "demu",
+        "valueverse"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "owner": {
+        "name": "New Music Nudge Unit",
+        "email": "newmusicnudgeunit@gmail.com"
+      },
+      "publisher": {
+        "feedGuid": "07aabe73-acd5-4148-83ff-15eded527c06",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/frankie-publisher-feed.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "frankieperoni@fountain.fm",
+          "split": 78,
+          "name": "Frankie Peroni",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "NMNU",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "chadf@getalby.com",
+          "split": 1,
+          "name": "MSP 2.0",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "podcastindex@getalby.com",
+          "split": 1,
+          "name": "Podcastindex.org",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "7b2228f8-9963-483d-8741-1b6f37f830c4",
+      "feedUrl": "https://headstarts.uk/msp/frankie-peroni/singles/Singles.xml",
+      "publisherGuid": "07aabe73-acd5-4148-83ff-15eded527c06",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/frankie-publisher-feed.xml",
+      "imageUrl": "https://headstarts.uk/msp/frankie-peroni/singles/singles-frankie-peroni.jpeg",
+      "feedId": "https-headstarts-uk-msp-frankie-peroni-singles-singles-xml",
+      "lastUpdated": "2026-04-09T01:42:21.058138+00:00"
+    },
+    {
+      "title": "Seaforth Road",
+      "artist": "Frankie Peroni",
+      "description": "Frankie Peroni Is A Singer Songwriter From Westcliff On Sea In Essex UK.\n\"Seaforth Road\" is Frankie Peroni’s most intimate release yet—an indie-rock-album soaked in nostalgia, evening streetlights, and the weight of places that never quite let you go. Across its tracks, Peroni reflects on the faces and memories that shaped him, blending soft storytelling with cinematic ambience. Honest, raw, and deeply human, this is an album about returning to where it all began—if only to finally move on.",
+      "coverArt": "https://headstarts.uk/msp/frankie-peroni/seaforth_road/seaforth-rd-album-cover.jpg",
+      "tracks": [
+        {
+          "title": "The Things You See When You Don't Have Your Gun",
+          "duration": "4:48",
+          "url": "https://op3.dev/e,pg=d9bdd845-750f-5cc3-a3cd-36edcde2671a/headstarts.uk/msp/frankie-peroni/seaforth_road/track%201/The%20Things%20You%20See%20When%20You%20Dont%20Have%20Your%20Gun.mp3",
+          "trackNumber": 1,
+          "subtitle": "The Things You See When You Don't Have Your Gun",
+          "summary": "A song Frankie wrote Some Time Ago.Its more or less a rock tune.I love the lyric - \"Even Murderers are someones son.\"\ncredits\nfrom Seaforth Road, track released in Fiat Land - November 21, 2025Frankie Peroni.George Cassidy Lead Guitar Solo.Mastered By Quincy Simon.\n \nPublished by New Music Nudge Unit",
+          "image": "https://headstarts.uk/msp/frankie-peroni/seaforth_road/seaforth-rd-album-cover.jpg",
+          "explicit": false,
+          "keywords": [
+            "Music",
+            "Rock",
+            "Essex",
+            "singer"
+          ],
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "frankieperoni@fountain.fm",
+                "split": 78,
+                "name": "Frankie",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 2,
+                "name": "Sovereign Feeds",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "NMNU",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "frankieperoni@fountain.fm",
+              "split": 78,
+              "name": "Frankie",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 2,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "NMNU",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "ac59aae2-b44c-4aab-b897-f3064db7b3ef",
+          "feedGuid": "d9bdd845-750f-5cc3-a3cd-36edcde2671a",
+          "imageUrl": "https://headstarts.uk/msp/frankie-peroni/seaforth_road/seaforth-rd-album-cover.jpg"
+        },
+        {
+          "title": "Nonsensical",
+          "duration": "5:34",
+          "url": "https://op3.dev/e,pg=d9bdd845-750f-5cc3-a3cd-36edcde2671a/headstarts.uk/msp/frankie-peroni/seaforth_road/track%202/nonsensical.mp3",
+          "trackNumber": 2,
+          "subtitle": "Nonsensical",
+          "summary": "I was heavily Influenced By The Beatles I am the walrus and Sgt PepperWhilst Writing this one.\n \ncredits\n\nfrom Seaforth Road, track released in Fiat Land - November 21, 2025Frankie Peroni.George Cassidy Lead Guitar Solo.Mastered By Quincy Simon.\n \nPublished by New Music Nudge Unit - bitcoinessex.co.uk/new-music-nudge-unit",
+          "image": "https://headstarts.uk/msp/frankie-peroni/seaforth_road/seaforth-rd-album-cover.jpg",
+          "explicit": false,
+          "keywords": [
+            "Music",
+            "Rock",
+            "Essex",
+            "singer"
+          ],
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "frankieperoni@fountain.fm",
+                "split": 78,
+                "name": "Frankie",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 2,
+                "name": "Sovereign Feeds",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "NMNU",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "frankieperoni@fountain.fm",
+              "split": 78,
+              "name": "Frankie",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 2,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "NMNU",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "8428c78d-dedc-495f-a74e-b241d56d49fb",
+          "feedGuid": "d9bdd845-750f-5cc3-a3cd-36edcde2671a",
+          "imageUrl": "https://headstarts.uk/msp/frankie-peroni/seaforth_road/seaforth-rd-album-cover.jpg"
+        },
+        {
+          "title": "The Devils Train",
+          "duration": "4:51",
+          "url": "https://op3.dev/e,pg=d9bdd845-750f-5cc3-a3cd-36edcde2671a/headstarts.uk/msp/frankie-peroni/seaforth_road/track%203/The%20Devils%20Train.mp3",
+          "trackNumber": 3,
+          "subtitle": "The Devils Train",
+          "summary": "This is a kind of Country Rock Song..It has an odd ending ..I wanted to do something like the end of Layla or Mr Blue Sky...Russ Strutter Plays the Bass on This and Levent Basharan Plays the lead guitar solo Emma Jane Beaumont On Backing Vocals.\ncredits\nfrom Seaforth Road, track released November 21, 2025Frankie PeroniRuss Strothard Bass GuitarEmma Jane Beaumont Backing VocalsLevent Basharan Lead Guitar.\nlicense\nall rights reserved\n\n \nPublished by New Music Nudge Unit",
+          "image": "https://headstarts.uk/msp/frankie-peroni/seaforth_road/seaforth-rd-album-cover.jpg",
+          "explicit": false,
+          "keywords": [
+            "Music",
+            "Rock",
+            "Essex",
+            "singer"
+          ],
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "frankieperoni@fountain.fm",
+                "split": 78,
+                "name": "Frankie",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 2,
+                "name": "Sovereign Feeds",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "NMNU",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "frankieperoni@fountain.fm",
+              "split": 78,
+              "name": "Frankie",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 2,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "NMNU",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "2edc8d4c-074f-437e-b443-93df14501d7c",
+          "feedGuid": "d9bdd845-750f-5cc3-a3cd-36edcde2671a",
+          "imageUrl": "https://headstarts.uk/msp/frankie-peroni/seaforth_road/seaforth-rd-album-cover.jpg"
+        },
+        {
+          "title": "I Only Want To Be With You",
+          "duration": "4:58",
+          "url": "https://op3.dev/e,pg=d9bdd845-750f-5cc3-a3cd-36edcde2671a/headstarts.uk/msp/frankie-peroni/seaforth_road/track%204/III%20Only%20Want%20To%20Be%20With%20You%20(QS%20Master)%20.mp3",
+          "trackNumber": 4,
+          "image": "https://headstarts.uk/msp/frankie-peroni/seaforth_road/seaforth-rd-album-cover.jpg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "0.000033333",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "frankieperoni@fountain.fm",
+                "split": 78,
+                "name": "frankie",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "chadf@getalby.com",
+                "split": 1,
+                "name": "MSP 2.0",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "podcastindex@getalby.com",
+                "split": 1,
+                "name": "Podcastindex.org",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "nmnu",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "frankieperoni@fountain.fm",
+              "split": 78,
+              "name": "frankie",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "chadf@getalby.com",
+              "split": 1,
+              "name": "MSP 2.0",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "podcastindex@getalby.com",
+              "split": 1,
+              "name": "Podcastindex.org",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "nmnu",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "afe48da8-ae86-44a1-a476-4dc94a8ff443",
+          "feedGuid": "d9bdd845-750f-5cc3-a3cd-36edcde2671a",
+          "imageUrl": "https://headstarts.uk/msp/frankie-peroni/seaforth_road/seaforth-rd-album-cover.jpg"
+        }
+      ],
+      "releaseDate": "Thu, 29 Jan 2026 15:17:10 GMT",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/#frankie",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "suggested": "0.000033333",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "frankieperoni@fountain.fm",
+            "split": 78,
+            "name": "frankie",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "chadf@getalby.com",
+            "split": 1,
+            "name": "MSP 2.0",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "podcastindex@getalby.com",
+            "split": 1,
+            "name": "Podcastindex.org",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "nmnu",
+            "fee": false
+          }
+        ]
+      },
+      "subtitle": "The Things You See When You Don't Have Your Gun",
+      "summary": "A song Frankie wrote Some Time Ago.Its more or less a rock tune.I love the lyric - \"Even Murderers are someones son.\"\ncredits\nfrom Seaforth Road, track released in Fiat Land - November 21, 2025Frankie Peroni.George Cassidy Lead Guitar Solo.Mastered By Quincy Simon.\n \nPublished by New Music Nudge Unit",
+      "keywords": [
+        "rock",
+        "indie",
+        "guitar",
+        "pop"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "owner": {
+        "name": "New Music Nudge Unit",
+        "email": "newmusicnudgeunit@gmail.com"
+      },
+      "publisher": {
+        "feedGuid": "07aabe73-acd5-4148-83ff-15eded527c06",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/frankie-publisher-feed.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "frankieperoni@fountain.fm",
+          "split": 78,
+          "name": "frankie",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "chadf@getalby.com",
+          "split": 1,
+          "name": "MSP 2.0",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "podcastindex@getalby.com",
+          "split": 1,
+          "name": "Podcastindex.org",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "nmnu",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "d9bdd845-750f-5cc3-a3cd-36edcde2671a",
+      "feedUrl": "https://headstarts.uk/msp/frankie-peroni/seaforth_road/Seaforth-road-album.xml",
+      "publisherGuid": "07aabe73-acd5-4148-83ff-15eded527c06",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/frankie-publisher-feed.xml",
+      "imageUrl": "https://headstarts.uk/msp/frankie-peroni/seaforth_road/seaforth-rd-album-cover.jpg",
+      "feedId": "https-headstarts-uk-msp-frankie-peroni-seaforth-road-seaforth-road-album-xml",
+      "lastUpdated": "2026-04-09T01:42:21.058138+00:00"
+    },
+    {
+      "title": "How Will I Know What I Like? (Single)",
+      "artist": "Frankie Peroni",
+      "description": "Frankie Peroni is a singer-songwriter based in the UK, originally from Essex (Westcliff-on-Sea). Frankie Peroni is an independent UK singer-songwriter from the Essex coast, crafting heartfelt pop with a DIY spirit and a storyteller’s edge. His music blends classic melodic songwriting with modern production, earning growing support across underground radio and online communities. Frankie is part of the evolving Valueverse music movement and is active on Nostr, connecting directly with fans while championing open, artist-first distribution.",
+      "coverArt": "https://headstarts.uk/msp/frankie-peroni/How-will-i-know-what-i-like.jpeg",
+      "tracks": [
+        {
+          "title": "How Will I Know What I Like (Until I Do It To You?)",
+          "duration": "3:07",
+          "url": "https://headstarts.uk/msp/frankie-peroni/track%201/How%20Wil%20I%20Know%20What%20I%20Like.mp3",
+          "trackNumber": 1,
+          "subtitle": "How Will I Know What I Like (Until I Do It To You?)",
+          "summary": "How Will I Know What I Like (Until I Do It To You?) is the debut single in the valueverse from Frankie Peroni.\nA concise, melodic pop-rock track running roughly 3:07, the song showcases Frankie&rsquo;s songwriting, vocals and acoustic-guitar foundation &mdash; setting the tone for the forthcoming album. Published by the New Music Nudge Unit. \nFrankie is also on Nostr - You should follow him. Frankie is also a resident DJ at Southend City Radio in Essex, UK.",
+          "image": "https://headstarts.uk/msp/frankie-peroni/How-will-i-know-what-i-like.jpeg",
+          "explicit": false,
+          "value": {
+            "type": "lightning",
+            "method": "lnaddress",
+            "suggested": "5e-8",
+            "recipients": [
+              {
+                "type": "lnaddress",
+                "address": "frankieperoni@fountain.fm",
+                "split": 79,
+                "name": "Frankie Peroni",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "nmnu@fountain.fm",
+                "split": 20,
+                "name": "NMNU",
+                "fee": false
+              },
+              {
+                "type": "lnaddress",
+                "address": "steven@getalby.com",
+                "split": 1,
+                "name": "Sovereign Feeds",
+                "fee": false
+              }
+            ]
+          },
+          "paymentRecipients": [
+            {
+              "address": "frankieperoni@fountain.fm",
+              "split": 79,
+              "name": "Frankie Peroni",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "nmnu@fountain.fm",
+              "split": 20,
+              "name": "NMNU",
+              "fee": false,
+              "type": "lnaddress"
+            },
+            {
+              "address": "steven@getalby.com",
+              "split": 1,
+              "name": "Sovereign Feeds",
+              "fee": false,
+              "type": "lnaddress"
+            }
+          ],
+          "guid": "98b2eec4-9f9a-40ec-8885-f872bc6bc419",
+          "feedGuid": "87750227-32d0-5154-8944-a6c65cf57157",
+          "imageUrl": "https://headstarts.uk/msp/frankie-peroni/How-will-i-know-what-i-like.jpeg"
+        }
+      ],
+      "releaseDate": "Thu, 15 Jan 2026 12:02:00 GMT",
+      "link": "https://bitcoinessex.co.uk/new-music-nudge-unit/",
+      "value": {
+        "type": "lightning",
+        "method": "lnaddress",
+        "suggested": "5e-8",
+        "recipients": [
+          {
+            "type": "lnaddress",
+            "address": "frankieperoni@fountain.fm",
+            "split": 79,
+            "name": "Frankie Peroni",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "steven@getalby.com",
+            "split": 1,
+            "name": "Sovereign Feeds",
+            "fee": false
+          },
+          {
+            "type": "lnaddress",
+            "address": "nmnu@fountain.fm",
+            "split": 20,
+            "name": "NMNU",
+            "fee": false
+          }
+        ]
+      },
+      "subtitle": "How Will I Know What I Like (Until I Do It To You?)",
+      "summary": "How Will I Know What I Like (Until I Do It To You?) is the debut single in the valueverse from Frankie Peroni.\nA concise, melodic pop-rock track running roughly 3:07, the song showcases Frankie&rsquo;s songwriting, vocals and acoustic-guitar foundation &mdash; setting the tone for the forthcoming album. Published by the New Music Nudge Unit. \nFrankie is also on Nostr - You should follow him. Frankie is also a resident DJ at Southend City Radio in Essex, UK.",
+      "keywords": [
+        "frankie",
+        "peroni",
+        "v4v",
+        "demu",
+        "valueverse"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "explicit": false,
+      "language": "en",
+      "owner": {
+        "name": "New Music Nudge Unit",
+        "email": "newmusicnudgeunit@gmail.com"
+      },
+      "publisher": {
+        "feedGuid": "07aabe73-acd5-4148-83ff-15eded527c06",
+        "feedUrl": "https://headstarts.uk/msp/publisher-feeds/frankie-publisher-feed.xml",
+        "medium": "publisher"
+      },
+      "paymentRecipients": [
+        {
+          "address": "frankieperoni@fountain.fm",
+          "split": 79,
+          "name": "Frankie Peroni",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "steven@getalby.com",
+          "split": 1,
+          "name": "Sovereign Feeds",
+          "fee": false,
+          "type": "lnaddress"
+        },
+        {
+          "address": "nmnu@fountain.fm",
+          "split": 20,
+          "name": "NMNU",
+          "fee": false,
+          "type": "lnaddress"
+        }
+      ],
+      "feedGuid": "87750227-32d0-5154-8944-a6c65cf57157",
+      "feedUrl": "https://headstarts.uk/msp/frankie-peroni/Seaforth Road.xml",
+      "publisherGuid": "07aabe73-acd5-4148-83ff-15eded527c06",
+      "publisherUrl": "https://headstarts.uk/msp/publisher-feeds/frankie-publisher-feed.xml",
+      "imageUrl": "https://headstarts.uk/msp/frankie-peroni/How-will-i-know-what-i-like.jpeg",
+      "feedId": "https-headstarts-uk-msp-frankie-peroni-seaforth-road-xml",
+      "lastUpdated": "2026-04-09T01:42:21.058138+00:00"
     }
   ],
-  "count": 29,
-  "timestamp": "2026-04-09T01:03:44.554Z",
+  "count": 46,
+  "timestamp": "2026-04-09T01:43:01.276Z",
   "source": "build-time-rss-parse",
   "generated": true,
-  "generatedAt": "2026-04-09T01:03:44.554Z"
+  "generatedAt": "2026-04-09T01:43:01.276Z"
 }
