@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-RSS Music Site Template — a Next.js 15 (App Router) template for Lightning Network-powered Value4Value music platforms. Parses RSS feeds with audio enclosures, provides a full-featured audio player, and optionally supports Bitcoin Lightning payments, Nostr integration, and Podcasting 2.0 features. Designed to be deployed on Vercel as a GitHub template repo.
+NMNU (New Music Nudge Unit) — a Value4Value music platform built with Next.js 15 (App Router), deployed at https://nmnu.vercel.app/. Built from the [RSS-music-site-template](https://github.com/ChadFarrow/RSS-music-site-template). Features RSS feed parsing with audio streaming, Bitcoin Lightning payments, Nostr integration, and Podcasting 2.0 support. Currently showcases Longy's catalog (29 albums across headstarts.uk and wavlake.com feeds, plus 1 publisher feed).
 
 ## Commands
 
@@ -100,4 +100,4 @@ Configured via `next-pwa` in `next.config.js` but currently disabled (`disable: 
 
 ## Deployment
 
-Primary deployment target is Vercel. The build process automatically parses RSS feeds during `prebuild`. GitHub Actions workflow (`.github/workflows/auto-version-pwa.yml`) handles auto-versioning.
+Deployed to Vercel at https://nmnu.vercel.app/. The build process automatically parses RSS feeds during `prebuild`. GitHub Actions workflow (`.github/workflows/auto-version-pwa.yml`) handles auto-versioning. Template repo: [ChadFarrow/RSS-music-site-template](https://github.com/ChadFarrow/RSS-music-site-template).
