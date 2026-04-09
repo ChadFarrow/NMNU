@@ -13,6 +13,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { AlbumsService } from '../lib/albums-service';
 import { FeedManager } from '../lib/feed-manager';
+import { FeedParser } from '../lib/feed-parser';
 import { RSSParser } from '../lib/rss-parser';
 import { cleanAlbumImages } from '../lib/image-utils';
 import { extractColorsFromImageServer } from '../lib/color-extraction-server';
@@ -301,7 +302,18 @@ async function buildRSSData(): Promise<void> {
     }
     
     console.log(`🎉 Build-time RSS parsing complete: ${albums.length} albums`);
-    
+
+    // Step 3: Generate parsed-feeds.json (needed by /api/publishers for Artists filter)
+    try {
+      console.log('📋 Generating parsed-feeds.json for publisher/artist data...');
+      FeedManager.clearCache();
+      const report = await FeedParser.parseAllFeeds();
+      console.log(`✅ parsed-feeds.json generated: ${report.successfulParses}/${report.totalFeeds} feeds, ${report.publishersFound} publishers`);
+    } catch (parseError) {
+      console.warn('⚠️ Failed to generate parsed-feeds.json:', parseError instanceof Error ? parseError.message : parseError);
+      // Non-fatal: albums will still work, just Artists filter may be empty
+    }
+
   } catch (error) {
     const errorMessage = error instanceof Error ? error.message : String(error);
     const errorStack = error instanceof Error ? error.stack : undefined;
