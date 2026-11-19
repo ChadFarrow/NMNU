@@ -25,7 +25,7 @@ cp env.lightning.template .env.local   # Lightning-enabled dev
 cp env.basic.template .env.local       # Music-only dev
 ```
 
-Key env vars: `NEXT_PUBLIC_SITE_NAME`, `NEXT_PUBLIC_SITE_URL`, `NEXT_PUBLIC_ENABLE_LIGHTNING` (controls all Lightning/Nostr/Boost features), `NEXT_PUBLIC_SITE_NOSTR_NSEC` (site Nostr identity).
+Key env vars: `NEXT_PUBLIC_SITE_NAME`, `NEXT_PUBLIC_SITE_URL`, `NEXT_PUBLIC_ENABLE_LIGHTNING` (controls all Lightning/Nostr/Boost features), `SITE_NOSTR_NSEC` (site Nostr identity, server-only — `/api/nostr/publish` signs with it) and `NEXT_PUBLIC_SITE_NOSTR_NPUB` (its public npub). Never give a private key a `NEXT_PUBLIC_` prefix: Next inlines those into the browser bundle.
 
 ## Architecture
 

@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { getBoostToNostrService } from '@/lib/boost-to-nostr-service';
 import { type Event } from 'nostr-tools';
-import { nip19, SimplePool, getPublicKey } from 'nostr-tools';
+import { nip19, SimplePool } from 'nostr-tools';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { isBoostsEnabled, isNostrKeysConfigured } from '@/lib/feature-flags';
@@ -607,30 +607,24 @@ export default function BoostsPage() {
 
       const service = getBoostToNostrService();
 
-      // Get the site's Nostr account from environment - derive npub from nsec
-      const siteNsec = process.env.NEXT_PUBLIC_SITE_NOSTR_NSEC;
-      let appPubkey: string | undefined;
+      // Get the site's Nostr account from environment. Only the npub is public;
+      // the nsec stays server-side in SITE_NOSTR_NSEC (see /api/nostr/publish).
+      let appPubkey = process.env.NEXT_PUBLIC_SITE_NOSTR_NPUB;
 
-      if (siteNsec) {
+      // Decode npub to hex if needed
+      if (appPubkey && appPubkey.startsWith('npub')) {
         try {
-          // Decode nsec to get the secret key
-          const { data: secretKey } = nip19.decode(siteNsec);
-          if (secretKey instanceof Uint8Array) {
-            // Derive public key from secret key
-            appPubkey = getPublicKey(secretKey);
-            console.log(`Using site account derived from nsec: ${nip19.npubEncode(appPubkey)}`);
-          } else {
-            console.error('Failed to decode nsec: secret key is not Uint8Array');
-            setError('Site Nostr account not configured');
-            return;
-          }
+          const { data } = nip19.decode(appPubkey);
+          const hexPubkey = data as string;
+          console.log(`Using site account: ${appPubkey}`);
+          appPubkey = hexPubkey;
         } catch (error) {
-          console.error('Failed to decode nsec:', error);
+          console.error('Failed to decode npub:', error);
           setError('Site Nostr account not configured');
           return;
         }
       } else {
-        console.error('NEXT_PUBLIC_SITE_NOSTR_NSEC not configured');
+        console.error('NEXT_PUBLIC_SITE_NOSTR_NPUB not configured');
         setError('Site Nostr account not configured');
         return;
       }
@@ -730,18 +724,15 @@ export default function BoostsPage() {
     // Set up real-time subscription for new boosts
     const service = getBoostToNostrService();
 
-    // Get the site's Nostr account from environment - derive npub from nsec
-    const siteNsec = process.env.NEXT_PUBLIC_SITE_NOSTR_NSEC;
-    let appPubkey: string | undefined;
+    // Get the site's Nostr account from environment (the public npub only)
+    const siteNpub = process.env.NEXT_PUBLIC_SITE_NOSTR_NPUB;
 
-    if (siteNsec) {
+    if (siteNpub && siteNpub.startsWith('npub')) {
       try {
-        // Decode nsec to get the secret key
-        const { data: secretKey } = nip19.decode(siteNsec);
-        if (secretKey instanceof Uint8Array) {
-          // Derive public key from secret key
-          appPubkey = getPublicKey(secretKey);
-          console.log(`Using site account derived from nsec for real-time subscription: ${nip19.npubEncode(appPubkey)}`);
+        const { type, data } = nip19.decode(siteNpub);
+        if (type === 'npub' && typeof data === 'string') {
+          const appPubkey = data;
+          console.log(`Using site account for real-time subscription: ${siteNpub}`);
 
           // Subscribe to new boosts from this account
           const subscription = service.subscribeToBoosts(
@@ -812,13 +803,13 @@ export default function BoostsPage() {
             setIsRealTimeActive(false);
           };
         } else {
-          console.error('Failed to decode nsec: secret key is not Uint8Array');
+          console.error('Failed to decode npub: not an npub');
         }
       } catch (error) {
         console.error('Failed to set up real-time subscription:', error);
       }
     } else {
-      console.warn('NEXT_PUBLIC_SITE_NOSTR_NSEC not configured, skipping real-time subscription');
+      console.warn('NEXT_PUBLIC_SITE_NOSTR_NPUB not configured, skipping real-time subscription');
     }
   }, [boostsEnabled]);
 

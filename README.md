@@ -58,4 +58,5 @@ Deployed to [Vercel](https://vercel.com). Pushes to `main` trigger automatic red
 | `NEXT_PUBLIC_SITE_NAME` | Yes | Site display name |
 | `NEXT_PUBLIC_SITE_URL` | Yes | Full site URL |
 | `NEXT_PUBLIC_ENABLE_LIGHTNING` | No | Enable Lightning payments (`true`/`false`) |
-| `NEXT_PUBLIC_SITE_NOSTR_NSEC` | No | Site Nostr identity (nsec key) |
+| `SITE_NOSTR_NSEC` | No | Site Nostr identity (nsec key). Server-only; `/api/nostr/publish` signs boost notes with it |
+| `NEXT_PUBLIC_SITE_NOSTR_NPUB` | No | The same identity's npub. Public; the browser uses it to show the site's boosts |
